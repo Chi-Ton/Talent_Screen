@@ -1,0 +1,522 @@
+{
+  "repository_name": ".codeboarding-target",
+  "timestamp": "2026-11-02T01:28:30.403504+00:00",
+  "overall_score": 0.9484626647144948,
+  "check_summaries": [
+    {
+      "check_name": "function_size",
+      "description": "Checks that functions/methods do not exceed line count thresholds",
+      "languages": [
+        "python"
+      ],
+      "check_type": "standard",
+      "total_entities_checked": 224,
+      "findings_count": 3,
+      "warning_count": 3,
+      "score": 0.9866071428571429,
+      "finding_groups": [
+        {
+          "severity": "warning",
+          "threshold": 150,
+          "description": "Functions exceeding 150.0 lines",
+          "entities": [
+            {
+              "entity_name": "backend.migrations.versions.7398d27285c3_initial_talentscreen_schema.upgrade",
+              "file_path": "backend/migrations/versions/7398d27285c3_initial_talentscreen_schema.py",
+              "line_start": 19,
+              "line_end": 621,
+              "metric_value": 602
+            },
+            {
+              "entity_name": "backend.app.db.seed.seed_database",
+              "file_path": "backend/app/db/seed.py",
+              "line_start": 74,
+              "line_end": 272,
+              "metric_value": 198
+            },
+            {
+              "entity_name": "backend.scripts.verify_compact_schema.verify",
+              "file_path": "backend/scripts/verify_compact_schema.py",
+              "line_start": 22,
+              "line_end": 184,
+              "metric_value": 162
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "check_name": "circular_dependencies",
+      "description": "Detects circular dependencies between packages",
+      "languages": [
+        "python"
+      ],
+      "check_type": "circular_dependencies",
+      "cycles": [
+        "backend.app.features.auth -> backend.app.db -> backend.app.features.reports -> backend.app.features.admin -> backend.app.features.auth",
+        "backend.app.features.auth -> backend.app.db -> backend.app.features.reports -> backend.app.features.auth",
+        "backend.app.features.reports -> backend.app.db -> backend.app.features.reports",
+        "backend.app.features.reports -> backend.app.features.admin -> backend.app.db -> backend.app.features.reports"
+      ],
+      "packages_checked": 24,
+      "packages_in_cycles": 4
+    },
+    {
+      "check_name": "unused_code_diagnostics",
+      "description": "Detects unused imports, variables, functions, and dead code via LSP diagnostics",
+      "languages": [
+        "python"
+      ],
+      "check_type": "standard",
+      "total_entities_checked": 8,
+      "findings_count": 8,
+      "warning_count": 0,
+      "score": 0.6,
+      "finding_groups": [
+        {
+          "severity": "info",
+          "threshold": 0,
+          "description": "Variables declared but never used",
+          "entities": [
+            {
+              "entity_name": "[unused_variable] \"hr\" is not accessed",
+              "file_path": "backend/app/compact/audit.py",
+              "line_start": 16,
+              "line_end": 16,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] \"hr\" is not accessed",
+              "file_path": "backend/app/compact/auth_jobs.py",
+              "line_start": 62,
+              "line_end": 62,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] \"hr\" is not accessed",
+              "file_path": "backend/app/compact/auth_jobs.py",
+              "line_start": 74,
+              "line_end": 74,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] \"hr\" is not accessed",
+              "file_path": "backend/app/compact/candidates.py",
+              "line_start": 118,
+              "line_end": 118,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] \"hr\" is not accessed",
+              "file_path": "backend/app/compact/candidates.py",
+              "line_start": 136,
+              "line_end": 136,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] \"hr\" is not accessed",
+              "file_path": "backend/app/compact/candidates.py",
+              "line_start": 147,
+              "line_end": 147,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] \"hr\" is not accessed",
+              "file_path": "backend/app/compact/screening.py",
+              "line_start": 50,
+              "line_end": 50,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] \"hr\" is not accessed",
+              "file_path": "backend/app/compact/screening.py",
+              "line_start": 56,
+              "line_end": 56,
+              "metric_value": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "check_name": "function_size",
+      "description": "Checks that functions/methods do not exceed line count thresholds",
+      "languages": [
+        "typescript"
+      ],
+      "check_type": "standard",
+      "total_entities_checked": 428,
+      "findings_count": 6,
+      "warning_count": 6,
+      "score": 0.985981308411215,
+      "finding_groups": [
+        {
+          "severity": "warning",
+          "threshold": 150,
+          "description": "Functions exceeding 150.0 lines",
+          "entities": [
+            {
+              "entity_name": "frontend.src.features.batches.upload-cv-batch.UploadCvBatch",
+              "file_path": "frontend/src/features/batches/upload-cv-batch.tsx",
+              "line_start": 77,
+              "line_end": 331,
+              "metric_value": 254
+            },
+            {
+              "entity_name": "frontend.src.app.dashboard.page.DashboardPage",
+              "file_path": "frontend/src/app/dashboard/page.tsx",
+              "line_start": 122,
+              "line_end": 330,
+              "metric_value": 208
+            },
+            {
+              "entity_name": "frontend.src.features.jobs.create-job-screening-criteria.CreateJobScreeningCriteria",
+              "file_path": "frontend/src/features/jobs/create-job-screening-criteria.tsx",
+              "line_start": 43,
+              "line_end": 232,
+              "metric_value": 189
+            },
+            {
+              "entity_name": "frontend.src.app.jobs.page.JobsPage",
+              "file_path": "frontend/src/app/jobs/page.tsx",
+              "line_start": 58,
+              "line_end": 215,
+              "metric_value": 157
+            },
+            {
+              "entity_name": "frontend.src.features.jobs.create-job-basic-info.CreateJobBasicInfo",
+              "file_path": "frontend/src/features/jobs/create-job-basic-info.tsx",
+              "line_start": 32,
+              "line_end": 189,
+              "metric_value": 157
+            },
+            {
+              "entity_name": "frontend.src.features.jobs.create-job-scoring-weights.CreateJobScoringWeights",
+              "file_path": "frontend/src/features/jobs/create-job-scoring-weights.tsx",
+              "line_start": 59,
+              "line_end": 211,
+              "metric_value": 152
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "check_name": "circular_dependencies",
+      "description": "Detects circular dependencies between packages",
+      "languages": [
+        "typescript"
+      ],
+      "check_type": "circular_dependencies",
+      "cycles": [
+        "frontend.src.features.candidates -> frontend.src.features.jobs -> frontend.src.features.candidates"
+      ],
+      "packages_checked": 52,
+      "packages_in_cycles": 2
+    },
+    {
+      "check_name": "unused_code_diagnostics",
+      "description": "Detects unused imports, variables, functions, and dead code via LSP diagnostics",
+      "languages": [
+        "typescript"
+      ],
+      "check_type": "standard",
+      "total_entities_checked": 23,
+      "findings_count": 23,
+      "warning_count": 0,
+      "score": 0.0,
+      "finding_groups": [
+        {
+          "severity": "info",
+          "threshold": 0,
+          "description": "Variables declared but never used",
+          "entities": [
+            {
+              "entity_name": "[unused_variable] 'Clock3' is declared but its value is never read.",
+              "file_path": "frontend/src/app/dashboard/page.tsx",
+              "line_start": 11,
+              "line_end": 11,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] 'UserRound' is declared but its value is never read.",
+              "file_path": "frontend/src/app/dashboard/page.tsx",
+              "line_start": 18,
+              "line_end": 18,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] 'rangeLabels' is declared but its value is never read.",
+              "file_path": "frontend/src/app/dashboard/page.tsx",
+              "line_start": 30,
+              "line_end": 30,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] 'LanguageToggle' is declared but its value is never read.",
+              "file_path": "frontend/src/app/login/page.tsx",
+              "line_start": 20,
+              "line_end": 20,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] 'LanguageToggle' is declared but its value is never read.",
+              "file_path": "frontend/src/components/app-shell.tsx",
+              "line_start": 18,
+              "line_end": 18,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] 'useLanguage' is declared but its value is never read.",
+              "file_path": "frontend/src/components/language-toggle.tsx",
+              "line_start": 3,
+              "line_end": 3,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] 'RotateCcw' is declared but its value is never read.",
+              "file_path": "frontend/src/features/admin/users-roles.tsx",
+              "line_start": 14,
+              "line_end": 14,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] 'initialUsers' is declared but its value is never read.",
+              "file_path": "frontend/src/features/admin/users-roles.tsx",
+              "line_start": 28,
+              "line_end": 28,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] 'LanguageToggle' is declared but its value is never read.",
+              "file_path": "frontend/src/features/auth/password-recovery.tsx",
+              "line_start": 18,
+              "line_end": 18,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] 'loadError' is declared but its value is never read.",
+              "file_path": "frontend/src/features/batches/screening-batch-history.tsx",
+              "line_start": 66,
+              "line_end": 66,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] 'FileCheck2' is declared but its value is never read.",
+              "file_path": "frontend/src/features/jobs/create-job-basic-info.tsx",
+              "line_start": 11,
+              "line_end": 11,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] 'LayoutDashboard' is declared but its value is never read.",
+              "file_path": "frontend/src/features/jobs/create-job-basic-info.tsx",
+              "line_start": 14,
+              "line_end": 14,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] 'ShieldCheck' is declared but its value is never read.",
+              "file_path": "frontend/src/features/jobs/create-job-screening-criteria.tsx",
+              "line_start": 15,
+              "line_end": 15,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] 'Check' is declared but its value is never read.",
+              "file_path": "frontend/src/features/jobs/job-opening-detail.tsx",
+              "line_start": 10,
+              "line_end": 10,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] 'candidates' is declared but its value is never read.",
+              "file_path": "frontend/src/features/jobs/job-opening-detail.tsx",
+              "line_start": 36,
+              "line_end": 36,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] 'Mail' is declared but its value is never read.",
+              "file_path": "frontend/src/features/settings/account-security.tsx",
+              "line_start": 15,
+              "line_end": 15,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] 'language' is declared but its value is never read.",
+              "file_path": "frontend/src/features/settings/account-security.tsx",
+              "line_start": 71,
+              "line_end": 71,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] 'useMemo' is declared but its value is never read.",
+              "file_path": "frontend/src/features/shortlists/shortlist-pipeline.tsx",
+              "line_start": 4,
+              "line_end": 4,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] 'AlertTriangle' is declared but its value is never read.",
+              "file_path": "frontend/src/features/shortlists/shortlist-pipeline.tsx",
+              "line_start": 6,
+              "line_end": 6,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] 'initialPipeline' is declared but its value is never read.",
+              "file_path": "frontend/src/features/shortlists/shortlist-pipeline.tsx",
+              "line_start": 49,
+              "line_end": 49,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] 'addableCandidates' is declared but its value is never read.",
+              "file_path": "frontend/src/features/shortlists/shortlist-pipeline.tsx",
+              "line_start": 65,
+              "line_end": 65,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] 'useState' is declared but its value is never read.",
+              "file_path": "frontend/src/lib/language-provider.tsx",
+              "line_start": 3,
+              "line_end": 3,
+              "metric_value": 0.0
+            },
+            {
+              "entity_name": "[unused_variable] 'language' is declared but its value is never read.",
+              "file_path": "frontend/src/lib/language-provider.tsx",
+              "line_start": 402,
+              "line_end": 402,
+              "metric_value": 0.0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "file_summaries": [
+    {
+      "file_path": "frontend/src/app/dashboard/page.tsx",
+      "total_findings": 4,
+      "warning_findings": 1,
+      "composite_risk_score": 45.0
+    },
+    {
+      "file_path": "frontend/src/features/shortlists/shortlist-pipeline.tsx",
+      "total_findings": 4,
+      "warning_findings": 0,
+      "composite_risk_score": 40.0
+    },
+    {
+      "file_path": "frontend/src/features/jobs/create-job-basic-info.tsx",
+      "total_findings": 3,
+      "warning_findings": 1,
+      "composite_risk_score": 35.0
+    },
+    {
+      "file_path": "backend/app/compact/candidates.py",
+      "total_findings": 3,
+      "warning_findings": 0,
+      "composite_risk_score": 30.0
+    },
+    {
+      "file_path": "frontend/src/features/jobs/create-job-screening-criteria.tsx",
+      "total_findings": 2,
+      "warning_findings": 1,
+      "composite_risk_score": 25.0
+    },
+    {
+      "file_path": "backend/app/compact/auth_jobs.py",
+      "total_findings": 2,
+      "warning_findings": 0,
+      "composite_risk_score": 20.0
+    },
+    {
+      "file_path": "backend/app/compact/screening.py",
+      "total_findings": 2,
+      "warning_findings": 0,
+      "composite_risk_score": 20.0
+    },
+    {
+      "file_path": "frontend/src/features/admin/users-roles.tsx",
+      "total_findings": 2,
+      "warning_findings": 0,
+      "composite_risk_score": 20.0
+    },
+    {
+      "file_path": "frontend/src/features/jobs/job-opening-detail.tsx",
+      "total_findings": 2,
+      "warning_findings": 0,
+      "composite_risk_score": 20.0
+    },
+    {
+      "file_path": "frontend/src/features/settings/account-security.tsx",
+      "total_findings": 2,
+      "warning_findings": 0,
+      "composite_risk_score": 20.0
+    },
+    {
+      "file_path": "frontend/src/lib/language-provider.tsx",
+      "total_findings": 2,
+      "warning_findings": 0,
+      "composite_risk_score": 20.0
+    },
+    {
+      "file_path": "backend/migrations/versions/7398d27285c3_initial_talentscreen_schema.py",
+      "total_findings": 1,
+      "warning_findings": 1,
+      "composite_risk_score": 15.0
+    },
+    {
+      "file_path": "backend/app/db/seed.py",
+      "total_findings": 1,
+      "warning_findings": 1,
+      "composite_risk_score": 15.0
+    },
+    {
+      "file_path": "backend/scripts/verify_compact_schema.py",
+      "total_findings": 1,
+      "warning_findings": 1,
+      "composite_risk_score": 15.0
+    },
+    {
+      "file_path": "frontend/src/features/batches/upload-cv-batch.tsx",
+      "total_findings": 1,
+      "warning_findings": 1,
+      "composite_risk_score": 15.0
+    },
+    {
+      "file_path": "frontend/src/app/jobs/page.tsx",
+      "total_findings": 1,
+      "warning_findings": 1,
+      "composite_risk_score": 15.0
+    },
+    {
+      "file_path": "frontend/src/features/jobs/create-job-scoring-weights.tsx",
+      "total_findings": 1,
+      "warning_findings": 1,
+      "composite_risk_score": 15.0
+    },
+    {
+      "file_path": "backend/app/compact/audit.py",
+      "total_findings": 1,
+      "warning_findings": 0,
+      "composite_risk_score": 10.0
+    },
+    {
+      "file_path": "frontend/src/app/login/page.tsx",
+      "total_findings": 1,
+      "warning_findings": 0,
+      "composite_risk_score": 10.0
+    },
+    {
+      "file_path": "frontend/src/components/app-shell.tsx",
+      "total_findings": 1,
+      "warning_findings": 0,
+      "composite_risk_score": 10.0
+    }
+  ]
+}
