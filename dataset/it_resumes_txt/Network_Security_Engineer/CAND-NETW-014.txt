@@ -1,0 +1,97 @@
+=== CANDIDATE PROFILE: Candidate CAND-NETW-014 ===
+Domain Category: Network Security Engineer
+
+Technical Expertise: ➢ Cisco ASA, Checkpoint firewall (GAIA, Splat), Palo Alto firewalls ➢ Firewall management tools: Cisco security management (CSM), Checkpoint Smart center, Palo Alto Panorama ➢ F5 load balancer (LTM) ➢ Networking Hands on Cisco Router and Cisco Switches, ➢ Security Management & Event Management: RSAEnvision 4.1, ➢ Ticketing tools - BMC Remedy, Service-now Other Technologies: Software languages: Python, VB Scripting 
+
+=== EDUCATION DETAILS ===
+ 
+
+January 2006 to January 2010 Bachelor of Engineering Information Technology Mumbai, Maharashtra Mumbai University
+
+Senior Network security Analyst 
+
+Senior Network security Analyst - Accenture
+
+=== SKILL DETAILS ===
+ 
+
+FIREWALLS- Exprience - 97 months
+
+CISCO- Exprience - 89 months
+
+SECURITY- Exprience - 72 months
+
+FIREWALL- Exprience - 45 months
+
+CHECKPOINT- Exprience - 44 months 
+
+=== COMPANY DETAILS ===
+ 
+
+company - Accenture
+
+description - Install, configure, upgrades and troubleshoot Cisco ASA firewalls ( 5500-X)  which includes Single and multi-context firewalls
+
+➢ F5 LTM  configuration (VIP, pools), SSL offloading, certificate renewals, Code upgrade and troubleshoot issues
+
+➢ Pulse secure (Juniper)  management includes creating Roles/ Realm, polices   for remote access, reverse proxy and Code upgrade
+
+➢ PAC file configuration
+
+➢ Preparing design documents (HLD, LLD), IP Schema and Configuration of all network devices as per customer requirements in data center environment
+
+➢ Incident Management, Change management, Problem Management ( ITIL process)
+
+➢ Key projects- Worked on resiliency project like firewall policy lockdown. Software code upgrade on all firewalls and load balancers. End to end co-ordination for firewall deployment
+
+➢ Tools: Cisco security manager 4.x
+
+company - Zensar Technologies
+
+description - Install, Upgrades Checkpoint firewalls GAIA R75, R77 and policy deployment
+
+➢ Troubleshoot checkpoint firewalls, Palo alto firewall and Cisco ASA's for multiple sites belongs to US, Canada and EMEA region.
+
+➢ Configure, upgrades, troubleshoot Cisco Routers ( Cisco 29xx, 28xx, 19xx) and Cisco switches (2960, 3560) and Cisco Meraki AP in Meraki Cloud
+
+➢ F5 LTM configuration and troubleshooting the operational issues
+
+company - Infosys Technologies
+
+description - 
+
+=== RESPONSIBILITIES ===
+:
+
+➢ Install, configure, upgrade and troubleshoot checkpoint firewalls, Cisco Routers, Switches
+
+➢ Configure, monitor and troubleshoot issues within organization LAN, WAN and customer
+
+Connectivity networks.
+
+➢ Interface with vendors and service providers ensuring that hardware or software problems were dealt with efficiently and effectively, with minimal downtime
+
+company - HCL-Comnet
+
+description - 
+
+=== RESPONSIBILITIES ===
+:
+
+➢ Event moitoring and administration of RSA en Vision 4.1 SIEM.
+
+➢ Proficient in researching traffic patterns to identify false-positives and/or malicious traffic within IDS, IPS, scanners (Qualis) and firewalls.
+
+➢ Experience in writing correlation rules, parsers & developing UDS for unsupported device logs.
+
+➢ analyze a large volume of security events while maintaining a high quality of analysis
+
+➢ Change Configuration Management exposure
+
+company - Wipro Technologies
+
+description - Administrator, Manage and troubleshoot multi-vendor Network Infrastructure consisting of Cisco, Juniper Platforms ( Cisco Router 3845, Cisco stack-wise switches 3750E and 2960 access switch, Cisco 4500 chassis, Cisco 5550/20 ASA firewalls, Juniper SA 6500 SSL VPN)
+
+➢ Provisioning and troubleshooting access issues related to RSA and Entrust (2FA) User Accounts.
+
+➢ Taking all network and security devices configuration back up on weekly and monthly basis.

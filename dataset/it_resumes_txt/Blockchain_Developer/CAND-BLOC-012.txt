@@ -1,0 +1,87 @@
+=== CANDIDATE PROFILE: Candidate CAND-BLOC-012 ===
+Domain Category: Blockchain
+
+Skills Strong CS fundamentals and problem solving Ethereum, Smart Contracts, Solidity skills Golang, Node, Angular, React Culturally fit for startup environment MongoDB, Post Gresql, My Sql Enthusiastic to learn new technologies AWS, Docker, Microservices Blockchain, Protocol, Consensus 
+
+=== EDUCATION DETAILS ===
+ 
+
+January 2014 M.Tech Computer Engineering Jaipur, Rajasthan Malaviya National Institute Of Technology Jaipur
+
+January 2011 B.E. Computer Science And Engg Kolhapur, Maharashtra Shivaji University
+
+Blockchain Engineer 
+
+Blockchain Engineer - XINFIN Orgnization
+
+=== SKILL DETAILS ===
+ 
+
+MONGODB- Exprience - 16 months
+
+CONTRACTS- Exprience - 12 months
+
+MYSQL- Exprience - 9 months
+
+AWS- Exprience - 6 months
+
+PROBLEM SOLVING- Exprience - 6 months 
+
+=== COMPANY DETAILS ===
+ 
+
+company - XINFIN Orgnization
+
+description - Xinfin is a global open source Hybrid Blockchain protocol.
+
+Rolled out multiple blockchain based pilot projects on different use cases for various clients. Eg.
+
+Tradefinex (Supply chain Management), Land Registry (Govt of MH), in Factor (Invoice Factoring)
+
+Build a secure and scalable hosted wallet based on ERC 20 standards for XINFIN Network.
+
+Working on production level blockchain use cases.
+
+Technology: Ethereum Blockchain, Solidity, Smart Contracts, DAPPs, Nodejs
+
+company - ORO Wealth
+
+description - Oro Wealth is a zero commision online investment platform, currently focused on direct mutual funds
+
+Build various scalable web based products (B2B and B2C) based on MEAN stack technology and integrated  with multiple finance applications/entities. eg. Integration KYC and MF Entities.
+
+Technology: Node.js, Angular.js, MongoDB, Express
+
+company - Yalla Spree
+
+description - Hyderabad, Telangana
+
+Yallaspree is a largest digital shopping directory in U.A.E with over 22K stores.
+
+Own the responsibility to develop and maintain following modules:
+
+- Admin and Vendor interface       - Database operations
+
+- Writing Webservices                      - Complete Notification system
+
+- Events  and Offers Page
+
+Technology: CakePHP (PHP Framework), JQuery, My Sql
+
+company - Rail Tiffin.com
+
+description - Mumbai, Maharashtra
+
+Rail Tiffin.com is an e-commerce platform to serve food to railway passengers.
+
+Worked on multiple roles like bug fixing, DB operations, Feature customisation and writing API endpoints.
+
+Technology: Open Cart (Ecommerce Framework), JQuery, My Sql
+
+company - Accolite Software India Private Limited
+
+description - Bengaluru, KA
+
+Accolite is a global IT Services company headquartered in Dallas, USA with offices in India.
+
+Worked on Birst Analytics Tool to develop, deploy and maintain reports

@@ -1,0 +1,13 @@
+**
+!backend/
+!backend/app/**
+!backend/migrations/**
+!backend/alembic.ini
+!backend/requirements.txt
+!dataset/
+!dataset/hr_standards/**
+!dataset/sample_job_descriptions/**
+!docs/
+!docs/database/
+!docs/database/compact-v2/
+!docs/database/compact-v2/schema.sql

@@ -1,0 +1,238 @@
+=== CANDIDATE PROFILE: Candidate CAND-DEVO-004 ===
+Domain Category: DevOps Engineer
+
+=== TECHNICAL SKILLS ===
+ 
+
+=== KEY SKILLS ===
+ MS Technology .Net, Share Point, MS SQL and Oracle PL/SQL Project Management & Execution Cloud Computing using Windows Azure and Amazon AWS/ EC2 Cloud XML/XAML/XSLT, HTML5, DHTML, CSS3, Java Script/JQuery/JSON, AngularJS, Web API, OData Service, VBScript, Node JS, Handling Dynamic QA Activities, Project Delivery Frameworks UI Design and Mobile Development, JAVA, JSP, SWING, J2EE Service Oriented Architecture (SOA), Web Service/WCF Service/Web API, Requirement Gathering Design Pattern like MVC, MVP, Abstract Factory OOAD with UML Implementation .NET SAP Connector to interact with SAP through ASP.NET Client Management SAP Web Channel and SAP Enterprise Portal Environment Android, iOS, Team Foundation Server 2010/12(TFS), Git Hub, IBM Rational Key Account Management Dev Ops, Team Forge and Share Point Portal Administration /Development, Collab Net, JIRA. IOT Implementation, Web/Data analytics, Working with the road map of Machine learning and AI. Expertise BI tools like Crystal report, Escalation Management SSRS, Tableau, Micro Strategy, Qlik View. IT Network/Infrastructure Monitoring tool Centreon, Cisco Meraki, Biz Talk BAM. Team Building & Leadership Liaison & Coordination Soft Skills Reporting & Documentation Leader Technical architect Time Management Thinker Collaborator Planner Information Security management Communicator Quality assurance Career Timeline (Recent 5 Companies) Reliance ADA Annet Technologies Aditya Birla Group as Software as Project Group as Project consultant Lead/Technical Manager Architect 2006-2007 2008-2009 2009-2012 2012-2013 2013-till date Northbound e Clerx Software LLC as Service as Programmer Technical Project Analyst Manager 
+
+=== EDUCATION DETAILS ===
+ 
+
+January 1998 Bachelor of Art Economics Dibrugarh, Assam, IN Dibrugarh University
+
+ MBA Information Technology  Sikkim Manipal University
+
+  Software Engineering and Computer Science Pune, Maharashtra NIIT
+
+Project Manager 
+
+Project Manager - Aditya Birla Group
+
+=== SKILL DETAILS ===
+ 
+
+MICROSOFT SHAREPOINT- Exprience - 147 months
+
+SHAREPOINT- Exprience - 147 months
+
+SQL- Exprience - 92 months
+
+ASP- Exprience - 79 months
+
+ASP.NET- Exprience - 76 months 
+
+=== COMPANY DETAILS ===
+ 
+
+company - Aditya Birla Group
+
+description - Reporting to Vice President)
+
+company - OPEX., Monitoring multiple DB server, Web server and Cloud base
+
+description - Period: Apr 2013 to till Date
+
+Working with:
+• Project management processes in ongoing projects. Coordinating with different projects Team (Internal
+
+Development team and Vendor side team) and other QA activities.
+• Information security audit. Budgeting CAPEX/OPEX., Monitoring multiple DB server, Web server and Cloud base servers Resource utilization in Networking infrastructure using different Hardware/Networking surveillance tools.
+• Tracking different team projects activities and involved with generating Final monthly report with different KPI for organization higher authority.
+• Managing all the Share Point Portal Admin activities and all the Project Functional, Technical and Business documents.
+• Involved in Technology Road map group to upgrade new technology like IOT, Virtual reality, Wearable technology, Machine learning/AI, 3D Printing.
+
+At e Clerx Software Service Mumbai
+
+company - e Clerx Software Service
+
+description - 
+
+company - Dell Site Search/Natural Search DB
+
+description - Environment: ASP.NET 4.0, C#, WCF, SSRS, SQL Server 2008 R2
+
+At Annet Technologies Mumbai
+
+company - Next Gen Enterprise
+
+description - ARIA) and 2) Re-manage Portal Integration in Apple i Phone/i Pad and Different Android Devices
+
+Domain- Real State, Period: Mar 2011 - Oct 2012
+
+Environment: ASP.NET 4.0, C#, WCF, WWF, JQuery, JSON, Java Script, HTML 5, CSS3, Windows Azure Cloud, Share Point
+
+company - Annet Technologies
+
+description - Key Result Areas:
+
+Administering project progress as per scheduled deadlines for various tasks and taking necessary steps for ensuring completion within time and effort parameters
+
+Working towards mapping requirements & providing best solutions for evaluating & defining scope of project and finalizing project requirements
+
+Interfacing with clients for business gathering, conducting system analysis & finalizing technical specifications
+
+Verifying the project documentation (Technical/Functional); using Share Point Documents Library Environment and performing all the Share Point administrative activities
+
+Significant Accomplishments:
+
+Rolled out project performance metrics reporting, implemented profitability improvement plans and enhanced operational efficiency
+
+Received the following awards: o Excellent Design and On-time Delivery Award o Design and Delivery Excellence Award
+
+Previous Experience
+
+company - Genentech, Biogen, Astellas Pharma, Polaris
+
+description - Client: Genentech, Biogen, Astellas Pharma, Polaris, New York, USA
+
+Environment: ASP.NET 3.5, C#, N-Hibernet, WCF, WWF, Java Script, JQuery, Biz Talk Server 2009, SQL Server 2008 R2
+
+At Northbound LLC Sunnyvale California
+
+company - iOS
+
+description - SQL Server 2008R2, Android, iOS
+
+company - Logistic Transport System, Ohio
+
+description - USA
+
+Environment: ASP.NET, C# 3.5, Java Script, NUnit Test, Telerik Controls, SQL Server 2005, T-SQL, MOSS 2007, SSIS,
+
+SSRS, Biz Talk2006, Crystal Report, N-Hibernet, Dreamweaver
+
+company - Northbound LLC
+
+description - 
+
+company - Biz Automation CRM
+
+description - California, USA
+
+Environment: ASP.NET 3.5, C#, SQL Server 2005, Android/iOS Development Platform, XML, XSLT, Java Script, JQuery,
+
+JSON, Share Point Design, WCF, WWF, Share Point 2007, Performance Point, SSRS
+
+company - Wachovia, North Carolina USA
+
+description - Environment: ASP.NET, C#, WCF, SQL Server 2005, Web Parts, Java Script, AJAX
+
+At Reliance ADA Group Mumbai
+
+Title: 1) Complain Management System and 2) Company Information System
+
+company - Domain- Manufacturing and Human Resource
+
+description - Environment: ASP.NET, C#, Oracle 8i, PL/SQL, Crystal Report, SAP Connector, VPN
+
+company - Reliance ADA Group
+
+description - 
+
+company - PF Trust System
+
+description - Environment: VB.NET, XML, Oracle 9i, PL/SQL, Toad, Crystal Report 11
+
+Sure Solution - Prasanna Group of Company IT Pune
+
+company - Prasanna Group
+
+description - 
+
+company - Online Bus Booking Portal
+
+description - Environment: ASP.NET, C#, SQL Server 2005, Web Services, Web Parts, MS Office Share Point Design, AJAX and Java cript
+
+At Info Dynamic Software System Pvt. Ltd. Pune
+
+Title: Info-Banking / E Banking
+
+Domain- Banking Period: Jan 2005 - Aug 2005
+
+Environment: VB6, Oracle 8i, PL/SQL, Crystal Report, Java JSP/Servlet/Swing.
+
+At PAN Software System Pvt. Ltd. Pune
+
+Title: E-commerce Site for Online Sales and Purchase
+
+company - Info Dynamic Software System Pvt. Ltd
+
+description - 
+
+company - ZD Doll Inc
+
+description - Newcastle, UK
+
+company - PAN Software System Pvt. Ltd
+
+description - 
+
+company - Online Procurement of Materials
+
+description - 
+
+company - Shipping Company
+
+description - Tokyo Based, Japan
+
+Environment: Java, JSP/Servlet, CSS, Java Script, SQL Server 2000, T-SQL
+
+Title: Studio Automation System
+
+Domain- Multimedia Period: Jan 2004 - May 2004
+
+Environment: VB 6, VC++, MS SQL Server, MS Data Report, Macromedia Flash, Fire works
+
+At Solid State Technologists (I) Pvt. Ltd. Pune
+
+company - National Dairy Development Board
+
+description - Environment: C++, VB6, SQL2000, Lotus Notes, Crystal Report 8, MS Active Report 2.0
+
+company - Solid State Technologists (I) Pvt. Ltd
+
+description - 
+
+company - Shell/Bharat Petroleum
+
+description - Title: Computerized Fuel Density Measurement Automation System
+
+Domain - Manufacturing and Automation Period: Dec 2002 - Mar 2003
+
+Client: Shell/Bharat Petroleum
+
+Environment: C++, VC ++, MATLAB, VB6, SQL Server 2000, Crystal Report
+
+Title: CMCS
+
+Domain - Finance and Accounting Period: June 2002 - Nov 2002
+
+Environment: VB6, SQL Server 2000, Crystal Report
+
+Title: Food Testing System
+
+company - Solid State Technologists (I) Pvt. Ltd
+
+description - Environment: VB .net, SQL Server 2000, Crystal Report
+
+Title: Customer Care System
+
+company - Himalaya Industries
+
+description - Environment: ASP .Net, C#, SQL Server 2000, Crystal Report
+
+company - MAPCO India Ltd and BERCO
+
+description - Environment: VB6, Oracle, Active/ Data Report

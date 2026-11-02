@@ -1,0 +1,109 @@
+=== CANDIDATE PROFILE: Candidate CAND-DATA-021 ===
+Domain Category: Database
+
+=== EDUCATION DETAILS ===
+ 
+
+May 2011 to May 2014 Bachelor of science Information technology Mumbai, Maharashtra Mumbai university
+
+Oracle DBA 
+
+Oracle database administrator
+
+=== SKILL DETAILS ===
+ 
+
+Installation of Oracle on RH Linux & Windows. Creating/Managing user profiles and analyzing their privileges and tablespace quotas Backup of database Logical and Physical procedures. Recovery of database in case of database crash, disk/media failure, etc. Standard DBA functions like space management, Rollback segments, Extents. Database Management and Monitoring the database. Willing to learn new things. Being a constructive team member, contributing practically to the success of the team.- Exprience - 48 months 
+
+=== COMPANY DETAILS ===
+ 
+
+company - Accelya kale solutions ltd
+
+description - Database Administrator working in 24*7 support environment maintaining Databases running on Oracle 11g, 12c.
+
+Database Up-gradation from Oracle 11g to Oracle 12c.
+
+Installation of Database critical patches.
+
+Taking cold and hot backups on scheduled times and monitoring backups.
+
+Importing the export dump to another database as per demands.
+
+Automating most of the daily activities through cronjobs, shell scripts or schedulers.
+
+Making Plan of Actions for Various Activities.
+
+Raising SR with Oracle Support for different severity issues.
+
+Handling the User's request and proper client interaction.
+
+Monitoring & managing database growth, tablespaces, adding ,resizing and renaming the datafiles.
+
+Restoration of database using RMAN backups for backup consistency checks.
+
+Migration of Database using export / import and RMAN backups.
+
+Configuring & managing Physical Standby database.
+
+Creating database links, Tablespaces, database directories.
+
+Managing network settings through listener.ora and tnsnames.ora files.
+
+Restoration of data using old logical backup as per client request.
+
+Schema replication across databases through data pump tool.
+
+Taking cold and hot backups on scheduled times and monitoring backups
+
+Taking EXPDP of database, database objects and a particular schema
+
+Using SCP ticketing tool in order keeping track of client requests. 
+
+Performing Maintenance Activities such as Index Rebuilding and stats gather.
+
+Troubleshooting the Basic Level performance issues 
+
+Setting up a new environment from database perspective within the requested timelines
+
+Adding/Deleting disks in ASM and monitoring the ASM diskgroups.
+
+Creating users & privileges with appropriate roles and levels of security. 
+
+Database Administrator working in 24*7 support environment maintaining Databases running on Oracle 11g, 12c.
+
+Performing database online and offline database re-organization for database enhancement. 
+
+Migrating database from Non-ASM to ASM file system.
+
+Grid up-gradation from 11g to 12C.
+
+company - Insolutions Global Ltd
+
+description - Oracle software installation(graphical/silent),Database upgrade,Patch upgrade.
+
+Maintaining around 80+ UAT DB servers, 40 production DB and 28 standby/DR DB.
+
+Managing/creating DR & standby servers, DB sync.
+
+Backup and recovery (RMAN/ Datapump).
+
+Performing activities like switchover and failover .
+
+Allocating system storage and planning future storage requirements for the database system
+
+Enrolling users and maintaining system security.
+
+Monitoring Alert log, Snap ID generation, db size, Server space, OEM reports, User validity.
+
+Controlling and monitoring user access to the database .
+
+Scheduling shell scripts or dbms_jobs using Crontab or DBMS_SCHEDULER (monitoring script, listener check, backup script, AWR reports) etc.
+
+Planning for backup and recovery of database.
+
+Managing the production database for Oracle and SQL Server and resize the space of database/Datafiles/Tablespace/Transactional Logs.
+
+Managing Temp and Undo tablespaces.
+
+Creating primary database storage structures (tablespaces) after application developers have designed an application.

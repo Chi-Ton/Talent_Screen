@@ -1,0 +1,54 @@
+=== CANDIDATE PROFILE: Candidate CAND-DATA-019 ===
+Domain Category: Data Science
+
+Personal Skills ➢ Ability to quickly grasp technical aspects and willingness to learn ➢ High energy levels & Result oriented. 
+
+=== EDUCATION DETAILS ===
+ 
+
+January 2018 Master of Engineering Computer Technology & Application Bhopal, Madhya Pradesh Truba Institute of Engineering & Information Technology
+
+January 2010 B.E. computer science Bhopal, Madhya Pradesh RKDF Institute of Science and Technology College of Engineering
+
+January 2006 Polytechnic Information Technology Vidisha, Madhya Pradesh SATI Engineering College in Vidisha
+
+January 2003 M.tech Thesis Detail  BMCH School in Ganj basoda
+
+Data science 
+
+I have six month experience in Data Science. 
+
+=== KEY SKILLS ===
+: - Experience in Machine Learning, Deep Leaning, NLP, Python, SQL, Web Scraping Good knowledge in computer subjects and ability to update
+
+=== SKILL DETAILS ===
+ 
+
+Experience in Machine Learning, Deep Learning, NLP, Python, SQL, Web Crawling, HTML,CSS.- Exprience - Less than 1 year months 
+
+=== COMPANY DETAILS ===
+ 
+
+company - RNT.AI Technology Solution
+
+description - Text classification using Machine learning Algorithms with python.
+
+Practical knowledge of Deep learning algorithms such as  Recurrent Neural Networks(RNN).
+
+Develop custom data models and algorithms to apply to dataset
+
+Experience with Python packages like Pandas, Scikit-learn, Tensor Flow, Numpy, Matplotliv, NLTK.
+
+Comfort with SQL,  MYSQL
+
+Sentiment analysis.
+
+ Apply leave Dataset using classification technique like Tf--idf , LSA with cosine similarity using Machine learning Algorithms.
+
+Web crawling using Selenium web driver and Beautiful Soup with python.
+
+company - Life Insurance Corporation of India Bhopal
+
+description - ü Explaining policy features and the benefits
+
+ü Updated knowledge of life insurance products and shared with customers

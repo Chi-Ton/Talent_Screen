@@ -1,0 +1,63 @@
+=== CANDIDATE PROFILE: Candidate CAND-JAVA-020 ===
+Domain Category: Java Developer
+
+=== EDUCATION DETAILS ===
+ 
+
+ BE IT   pjlce
+
+Java Developer 
+
+Java Developer
+
+=== SKILL DETAILS ===
+ 
+
+c++- Exprience - Less than 1 year months
+
+c- Exprience - Less than 1 year months
+
+JAVA- Exprience - Less than 1 year months
+
+DS- Exprience - Less than 1 year months
+
+Jdbc- Exprience - 24 months
+
+Hibernate- Exprience - Less than 1 year months
+
+Java J2Ee- Exprience - Less than 1 year months
+
+Javascript- Exprience - 6 months
+
+JQuery- Exprience - 6 months
+
+Ajax- Exprience - 6 months 
+
+=== COMPANY DETAILS ===
+ 
+
+company - Almighty tech pvt ltd nagpur
+
+description - 1. As a Java Developer.
+
+❖ ORGANISATION: Almighty tech pvt ltd Nagpur
+
+❖ DESIGNATION.: Java Developer.
+
+❖ DURATION.: From 1st jan 2018
+
+❖ Notice Period: 15 days
+
+JOB 
+
+=== RESPONSIBILITIES ===
+
+❖ Resolve Bugs
+
+❖ Develop project as per user requirement.
+
+KNOWLEDGE ABOUT:-
+
+❖ Programming language C, C++, DS, Java(Swing, JDBC, J2EE) java script,jquery,Ajax
+
+❖ Ms office, Excel.

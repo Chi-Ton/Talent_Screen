@@ -1,0 +1,31 @@
+=== CANDIDATE PROFILE: Candidate CAND-DATA-005 ===
+Domain Category: Data Science
+
+=== EDUCATION DETAILS ===
+ 
+
+ MCA   YMCAUST,  Faridabad,  Haryana
+
+Data Science internship 
+
+=== SKILL DETAILS ===
+ 
+
+Data Structure- Exprience - Less than 1 year months
+
+C- Exprience - Less than 1 year months
+
+Data Analysis- Exprience - Less than 1 year months
+
+Python- Exprience - Less than 1 year months
+
+Core Java- Exprience - Less than 1 year months
+
+Database Management- Exprience - Less than 1 year months 
+
+=== COMPANY DETAILS ===
+ 
+
+company - Itechpower
+
+description -

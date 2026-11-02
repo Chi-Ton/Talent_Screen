@@ -1,0 +1,65 @@
+=== CANDIDATE PROFILE: Candidate CAND-JAVA-032 ===
+Domain Category: Java Developer
+
+TECHNICAL STRENGTHS Computer Language Java/J2EE, Swift, HTML, Shell script, MySQL Databases MySQL Tools SVN, Jenkins, Hudson, Weblogic12c Software Android Studio, Eclipse, Oracle, Xcode Operating Systems Win 10, Mac (High Sierra) 
+
+=== EDUCATION DETAILS ===
+ 
+
+June 2016 B.E. Information Technology Goregaon, MAHARASHTRA, IN Vidyalankar Institute of Technology
+
+May 2013   Mumbai, Maharashtra Thakur Polytechnic
+
+May 2010   Mumbai, Maharashtra St. John's Universal School
+
+Java developer 
+
+Java developer - Tech Mahindra
+
+=== SKILL DETAILS ===
+ 
+
+JAVA- Exprience - 21 months
+
+MYSQL- Exprience - 21 months
+
+DATABASES- Exprience - 17 months
+
+J2EE- Exprience - 17 months
+
+ANDROID- Exprience - 6 months 
+
+=== COMPANY DETAILS ===
+ 
+
+company - Tech Mahindra
+
+description - Team Size: 5
+
+Environment: Java, Mysql, Shell script.
+
+Webserver: Jenkins.
+
+Description: OR-Formatter is an application which takes the input file as Geneva Modified File GMF from Geneva server and reads the data to generate Bill backup and Bill Invoices for Client customers of BT. These invoices would be sent across to all the clients after billing.
+
+Contribution:
+• Played the role of Java developer involved in applying change request to current modules.
+• Worked on requirement analysis and development for the user stories and also preformed dev unit testing for the user stories.
+• Handled E2E issues and fixing bugs.
+• Prepare required program level and user-level documentation.
+
+company - Tech Mahindra
+
+description - Team Size: 5
+
+Environment: Java EJB, Mysql, Shell script.
+
+Webserver: Weblogic12c Server, Jenkins.
+
+Description: STAA is an encapsulation middleware layer, acting as an interface between client's operational support systems and Legacy systems. It transforms the legacy data into various formats such as TLV. Input is in form xml/http to STAA where validations are done and the response is sent to the back end systems where back end systems are CSS and COSMOSS Databases. The business methods deployed as EJBs on Web Logic Server shared across various market facing units of client.
+
+Contribution:
+• Played the role of Java developer involved in creating services using Java/J2EE.
+• Worked on requirement analysis and development for the user stories and also preformed dev unit testing for the user stories.
+• Handled E2E issues and fixing bugs.
+• Worked in Migration from java 1.6 to java 1.8.

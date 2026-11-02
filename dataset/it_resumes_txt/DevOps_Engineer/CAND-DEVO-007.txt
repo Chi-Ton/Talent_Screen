@@ -1,0 +1,69 @@
+=== CANDIDATE PROFILE: Candidate CAND-DEVO-007 ===
+Domain Category: DevOps Engineer
+
+=== TECHNICAL SKILLS ===
+• HP ALM, RTC and JIRA
+• AS400 (i Series) with SQL
+• Test Automation: X- Framework (In hours HSBC Framework), UFT and LISA
+• Test Data Automation - CATDM
+• Test Scheduling - Jenkins and Maven
+• Test Document Versioning - Confluence and Share Point.
+
+=== EDUCATION DETAILS ===
+ 
+
+January 2002 Bachelor of Engineering Computer Engineering Mumbai, MAHARASHTRA, IN Mumbai University
+
+January 1999 Diploma Computer Technology Mumbai, MAHARASHTRA, IN Maharashtra State Board of Technical Education
+
+Project Manager(Global Test Manager) 
+
+Project Manager(Global Test Manager)
+
+=== SKILL DETAILS ===
+ 
+
+AS400- Exprience - 25 months
+
+ISERIES- Exprience - 25 months
+
+MICROSOFT SHAREPOINT- Exprience - 6 months
+
+SCHEDULING- Exprience - 6 months
+
+SHAREPOINT- Exprience - 6 months 
+
+=== COMPANY DETAILS ===
+ 
+
+company - CAREER TIMELINE
+
+description - HSBC Software India Pvt. Ltd.Pune, India   Project Manager(Global Test Manager)
+
+company - Disha Technologies
+
+description - 
+
+company - Total Solution (I) Pvt. Ltd
+
+description - Key Deliverables Across The Tenure
+
+As a Global Test Manager/Project Management:
+• Acting as Global Test Manager, steering a team of 25+ resources across the globe
+• Spearheading the testing teams in India, China, Malaysia and Poland
+• Current role involves entire test delivery of large programs under banking domain which includes leading a team comprising of individuals (Client & Vendor) from functional (Regression, Integration) & shared services (Security, Performance, accessibility and Automation) groups
+• Defining and devising the "HSBC Core Banking" IT Transformation strategies from solution to execution level.
+• Experience in latest specialize testing methods - CBIL - API, Conversion, Cloud, Digital UI, Infrastructure, Exploratory and Accessibility Testing.
+• Experienced in Planning the OAT and various non-functional like performance and volume testing of Core banking.
+• Coordinating with the regional business and testing teams to map their testing approach
+• Following with various teams to ensure end to end release is successful and a quality product is delivered to production.
+• Steering the Global product testing, regional deployments testing and  extending support for UAT and live proving
+• Technical lead to implement the in house "Test Automation" framework (X-framework) solution on AS400 (i Series) system.
+• Managing the implementation of Test automation to enable Dev Ops via tools Cucumber & Selenium (BDD), UFT and TOSCA for function testing
+• Leading the CI/CD implementation by executing automated scripts from Jenkins
+• Working on Test Data Management by using CA TDM and Internal HSBC Tool)
+• Handling tasks pertaining to Resource forecasting, effort estimation and resource on boarding process
+• Ensuring seamless communication with vendor partners to arrange for resource onboarding based on the forecasting
+• Reviewing the project progress on a daily basis; implementing corrective measures to ensure the project is ontrack
+• Overseeing people management tasks comprise monthly 1:1 with leads, reviews
+• Providing conflict resolution when required

@@ -1,0 +1,217 @@
+=== CANDIDATE PROFILE: Candidate CAND-DEVO-006 ===
+Domain Category: DevOps Engineer
+
+Total IT Experience 15 years. Core expertise in Data Base Design, PHP, Python, My Sql, Java Script, HTML 5, Ajax, Jquery, XML, Agile Methodology, Dev Ops Methodology, Scrum Framework, JIRA Tool, GIT, Bitbucket, Anjular JS 1, Angular JS 2, Core Java, J2EE. 
+
+=== EDUCATION DETAILS ===
+ 
+
+April 2004 MCM Computer Management Pune, Maharashtra Pune University
+
+April 1998 B.Sc Maths  Kerala University
+
+Project Manager 
+
+Project Manager
+
+=== SKILL DETAILS ===
+ 
+
+Data Base Design, PHP, Python, My Sql, Java Script, HTML, Ajax, XML, Agile Methodology, Dev Ops Methodology, Scrum Framework, JIRA Tool, GIT, Bitbucket, Jquery,  Angular Js, Amazon MWS , Bootstrap, Node.js, Laravel, Scrum- Exprience - 120 months 
+
+=== COMPANY DETAILS ===
+ 
+
+company - Knoxed Infotech Pvt. Ltd.
+
+description -  Client interaction
+
+ Maintain work processes
+
+ Creates project plans through Agile Model & Methodology
+
+ Maintains project objectives
+
+ Working with multi-profiled teams of technical and non technical stakeholders
+
+ Monitors production and quality to customer/stakeholder/sponsor standards
+
+ Conduct office management tasks
+
+ Ensuring that the day-to-day operations of the business run smoothly
+
+ Introducing key performance indicators (KPI's) and ensuring that these measurements are tracked
+
+and reviewed on a regular basis
+
+ Prepare, revise and submit weekly-monthly reports, budgets and other documentation as
+
+necessary
+
+ Document current policies and procedures in all departments as well as implement new procedures
+
+for improvement
+
+ Maintain smooth running of the office, filling in where needed
+
+ Implement quality management and regulatory compliance strategies
+
+ Dealing with HR related tasks
+
+ Administering payroll
+
+ Perform training sessions
+
+ Regular meetings with Top Management
+
+Project Undertaken : Internal ERP system For Knoxed Ltd, UK, With PHP, Mysql, Ajax, XML,
+
+Amazon AWS, Raspberry pi Server, Python.
+
+company - Venturus International
+
+description -  Client interaction
+
+ Creates project plans through Agile Model & Methodology
+
+ Manage team's workload and workflow
+
+ Allocate and track resources as required
+
+ Set and monitor deadlines
+
+ QC
+
+ Maintain tasks and jobs on task management system
+
+ Conduct research and development
+
+ Create new systems, databases and websites as necessary
+
+Project Undertaken : Internal ERP system For Knoxed Ltd, UK, With PHP, Mysql, Ajax, XML,
+
+Amazon AWS
+
+company - Smashing Day
+
+description -  Client interaction
+
+ Creates project plans through Agile Model & Methodology
+
+ Manage team's workload and workflow
+
+ Allocate and track resources as required
+
+ Set and monitor deadlines
+
+ Project documentation
+
+ Conduct and maintain appraisals and progress of each employee
+
+ Adhere to deadlines as necessary
+
+ Maintain work logs
+
+ Conduct research and development
+
+ Create new systems, databases and websites as necessary
+
+Project Undertaken :
+
+a) www.Smashing Day.com
+
+b) www.viralsocials.com
+
+company - Xento Systems Pvt. Ltd
+
+description -  Client interaction
+
+ Creates project plans through Agile Model & Methodology
+
+ Manage team's workload and workflow
+
+ Allocate and track resources as required
+
+ Set and monitor deadlines
+
+ QC
+
+ Maintain tasks and jobs on task management system
+
+ Conduct research and development
+
+ Create new systems, databases and websites as necessary
+
+Project Undertaken :
+
+a) www.familylink.com
+
+b) www.propertysolutions.com
+
+c) www.speedyceus.com
+
+d) www.ceus-nursing.com
+
+company - STP Global Solutions Pvt. Ltd.
+
+description -  Client interaction
+
+ Creates project plans through Agile Model & Methodology
+
+ Manage team's workload and workflow
+
+ Allocate and track resources as required
+
+ Set and monitor deadlines
+
+ Conduct and maintain appraisals and progress of each employee
+
+ QC
+
+ Maintain tasks and jobs on task management system
+
+ Conduct research and development
+
+ Create new systems, databases and websites as necessary
+
+Project Undertaken :
+
+a) www.stplafricaonline.com
+
+b) www.stplafrica.com
+
+c) www.1stexpert.com
+
+d) www.jcca-net.org
+
+e) www.rimsys.eu
+
+f) www.prayerlister.org
+
+company - Promark Infotech Pvt. Ltd
+
+description -  Development & Design
+
+ Create new systems, databases and websites as necessary
+
+Project Undertaken :
+
+a) www.justbe.com/
+
+b) www.mtpian.com/
+
+c) www.sababa.nl/booking/
+
+d) www.physicaltherapy-hiu.com
+
+company - 7cees Group
+
+description -  Development & Design
+
+ Create new systems, databases and websites as necessary
+
+Project Undertaken :
+
+a) Golwin-reality
+
+b) Maza

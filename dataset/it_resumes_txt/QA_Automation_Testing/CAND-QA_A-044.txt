@@ -1,0 +1,66 @@
+=== CANDIDATE PROFILE: Candidate CAND-QA_A-044 ===
+Domain Category: Testing
+
+COMPUTER PROFICIENCY
+• Basic: MS-Office (Power Point, word, Outlook, Excel)
+• Language Known: Basics of C, CPP, Java.
+• Basics of Networking
+• Basics command of Linux 
+
+=== PROJECT DETAILS ===
+ Minor 
+
+=== PROJECT DETAILS ===
+:
+• Title: Applocker for Android.
+• Project Area: Android Application.
+• Description: Applocker provides the protection of the System applications as well as the Third party applications installed in the Android devices. The password protection is provided with the help of patterns of volume keys. Hence, an extra measure of privacy is acquired. Major 
+
+=== PROJECT DETAILS ===
+:
+• Title: Online Complaint System For Cyber Crimes.
+• Project Area: Android Application
+• Description: Online Complaint System for Cyber Crimes is an android application which will be in use after a person lodged a complaint in Police station regarding cyber crime but no action has been taken against it within the prescribed time constraint. Such person will directly use this application which will help him/her to directly lodge the complaint to Commissioner Office and it will get store in the Commissioner's database and necessary action will be taken against it. STRENGTHS
+• Belief in team work both as a team member and a leader.
+• Hard and ethical worker.
+
+=== EDUCATION DETAILS ===
+ 
+
+January 2013 to January 2016 B.E. Yeshwantrao Chavan Nagpur, Maharashtra Nagpur University
+
+ Diploma Aggregate  Maharashtra State
+
+ S.S.C. Education Nagpur, Maharashtra Maharashtra State
+
+Testing engineer 
+
+=== SKILL DETAILS ===
+ 
+
+ANDROID- Exprience - 6 months
+
+CPP- Exprience - 6 months
+
+DATABASE- Exprience - 6 months
+
+EXCEL- Exprience - 6 months
+
+JAVA- Exprience - 6 months
+
+Selenium- Exprience - 12 months
+
+Automation Testing- Exprience - 12 months
+
+Selenium Webdriver- Exprience - 12 months
+
+Manual Testing- Exprience - 6 months
+
+Regression Testing- Exprience - 6 months 
+
+=== COMPANY DETAILS ===
+ 
+
+company - Maxgen technologies
+
+description - I'm a software test engineer working at Maxgen technologies from past 1 year.

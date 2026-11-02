@@ -1,0 +1,107 @@
+=== CANDIDATE PROFILE: Candidate CAND-DATA-018 ===
+Domain Category: Database
+
+=== TECHNICAL SKILLS ===
+ Databases: Oracle RDBMS- 10g, 11g & 12c Technology/utilities: Data Pump, RMAN, Data guard, ASM, RAC, Golden Gate Tools: OCC, PUTTY, SQLPLUS, SQL Developer, Netbackup, SCOM, SCCM, VMWare Vsphere Operating Systems: RHEL 6.0, RHEL 6.5, UNIX and Microsoft Windows 
+
+=== EDUCATION DETAILS ===
+ 
+
+Database Administrator 
+
+Database Administrator - BNY Mellon
+
+=== SKILL DETAILS ===
+ 
+
+DATABASES- Exprience - 24 months
+
+ORACLE- Exprience - 24 months
+
+RMAN- Exprience - 24 months
+
+NETBACKUP- Exprience - 24 months
+
+SCOM- Exprience - 24 months 
+
+=== COMPANY DETAILS ===
+ 
+
+company - BNY Mellon
+
+description - Databases: 600+
+
+Team Size: 8
+
+Duration: Jan 2017 - Till Date
+
+Clients: Over 130+ investment banking organizations who are hosted with Eagle
+
+=== RESPONSIBILITIES ===
+: Database Management (Support and managing critical production, Pre-production, test and reporting databases in different platforms), Capacity Management Upgrades.
+• Handling day to day database activities monitoring and incident management.
+• Building new databases as per the requirement and prepare them for go live with the help of multiple teams.
+• Working on scheduled activity of database patching (CPU, PSU)
+• Installing latest path on production, Dev and Test databases as per the suggestion from Oracle support.
+• Database Upgrade from 11g and to 12c.
+• Adding disks to ASM disk groups.
+• Building DR database using Active Data guard, Make it sync with prod and resolving issues if persists
+• Data Guard Management- Checking lagging status, removing lagging of archives, checking processes like RFS/MRP, Archives Management
+• Working on tablespace related issues
+• Managing user access and profiles
+• Importing and exporting using datapump
+• Maintaining inventory of all databases in the single centralize database
+• Refreshing test environment from production database.
+• Working with Oracle Support to resolve oracle errors.
+• Schedule daily and weekly databases backup using RMAN, Troubleshooting in RMAN issues.
+• Database cloning using RMAN.
+• Take part in cutover to upgrade application to higher version.
+• Strictly following ITIL process in incident management and change management.
+• Providing weekly report of issues in team meeting also participating and suggesting service improvement plans.
+• Database Migrations from one server to another or to different platforms
+• RCA and impact analysis reporting during any production outage.
+
+Previous Organization: Brose India
+
+Project I: Central IT Management
+
+company - 
+
+description - 
+
+=== RESPONSIBILITIES ===
+: Managing our internal databases and servers of Brose global.
+• Providing 24x7 on-call support in the rotational shifts.
+• Performing day-to-day database activity
+• Monitoring and responding DBA group Mails for all alerts, issues and ad-hoc business user requests, etc.
+• Database creation, patching
+• Backup of Database in frequent cycles using Data pump/RMAN.
+• Database refreshes using RMAN, Datapump.
+• Recovery using copy of data / RMAN
+• Monitoring logs and trace for resolving issues.
+• Creating new VM servers and prepare it for go live, Also decommissioning as per requirements.
+• Weekly patching of windows servers using SCCM and taking actions for patching if needed
+• Monitoring and troubleshooting of daily and weekly OS backup using Symantec Netbackup
+• Managing user accounts of OS users and database users
+• Monitoring OS level alerts using SCOM
+
+Project II: Data Center Migration (Onsite Project)
+
+=== RESPONSIBILITIES ===
+: Data center migration was one of activity for migration of our datacenter from one location to another. Where our all servers and databases were moved successfully.
+• Installation of Oracle 11g on Linux platforms
+• Worked on service requests (Incidents / Change / Request)
+• Creation of users, managing user privileges
+• Configured RMAN backup for databases
+• Patching of databases
+• Configuring physical standby database using Dataguard
+• Cloning of servers and migrate to another cluster
+
+ACADEMIA / PERSONAL DETAILS
+• Bachelor of Engineering (B.E.) in Computer Science and Engineering From SGBAU Amravati University, Amravati in 2014 with CGPA of 7.21
+
+Current Address:-       Mr. Yogesh Tikhat, C/O: Raj Ahmad, Flat# G2-702, Dreams Aakruti, Kalepadal, Hadapsar, Pune - 411028
+
+Highest Qualification   BE (cse)
+
+PAN: -                  AOFPT5052C

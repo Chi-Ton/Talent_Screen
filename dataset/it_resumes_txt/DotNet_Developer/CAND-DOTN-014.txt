@@ -1,0 +1,72 @@
+=== CANDIDATE PROFILE: Candidate CAND-DOTN-014 ===
+Domain Category: DotNet Developer
+
+=== TECHNICAL SKILLS ===
+ ❖ Programming Languages: C#.NET ❖ Web Technologies: ASP.NET MVC, Web API, Angular, JQuery, HTML5, CSS3, Bootstrap. ❖ Database: SQL Server 2014 ❖ IDE: Visual Studio 2015, Visual Studio Code ❖ Office Packages: MS-Office (Access, Word, Excel) 
+
+=== EDUCATION DETAILS ===
+ 
+
+January 2016 B.Sc.(Computer Science)  Solapur, Maharashtra Solapur University
+
+DOT NET Developer 
+
+DOT NET Developer - Navshar Global Software
+
+=== SKILL DETAILS ===
+ 
+
+.NET- Exprience - 15 months
+
+ASP- Exprience - 15 months
+
+ASP.NET- Exprience - 15 months
+
+BOOTSTRAP- Exprience - 15 months
+
+j Query- Exprience - 15 months
+
+ASP.NET MVC- Exprience - Less than 1 year months
+
+Angularjs- Exprience - Less than 1 year months
+
+C#- Exprience - Less than 1 year months
+
+Entity Framework- Exprience - Less than 1 year months 
+
+=== COMPANY DETAILS ===
+ 
+
+company - Navshar Global Software
+
+description - 017.
+
+PROJECTS WORKED ON
+
+1. Navnirman Tech Festival
+
+✓ Navnirman Tech Festival is a technical event management application that is used to scheduling and organizing event.
+
+✓ Technologies: ASP.NET MVC, SQL Server, Entity Framework, AJAX, JQuery
+
+✓ Role: Involved Everywhere
+
+2. Like Security
+
+✓ The Like Security web application provides trusted services and man power as well labour management.
+
+✓ Technologies: ASP.NET MVC, SQL Server, Bootstrap, AJAX, JQuery
+
+✓ Role: Involved Everywhere
+
+3. Performance Review (In House Project)
+
+✓ This is an In-House Web application which is used to fill the review for particular Employee by other employees who worked with him. This application is very useful to take decision in appraisal of employee. All the submitted review can be downloaded in PDF format as per selection.
+
+✓ Technologies: ASP.NET MVC, Entity Framework, SQL Server, AJAX, JQuery
+
+✓ Role: Involved Everywhere
+
+company - None
+
+description - None

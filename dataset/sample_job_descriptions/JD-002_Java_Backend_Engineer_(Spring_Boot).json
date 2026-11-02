@@ -1,0 +1,31 @@
+{
+  "job_id": "JD-002",
+  "title": "Java Backend Engineer (Spring Boot)",
+  "department": "Backend Core",
+  "experience_required_years": 2,
+  "must_have_skills": [
+    "Java",
+    "Spring Boot",
+    "Hibernate",
+    "PostgreSQL",
+    "REST API",
+    "Microservices",
+    "Maven"
+  ],
+  "nice_to_have_skills": [
+    "Kafka",
+    "Docker",
+    "Redis",
+    "AWS",
+    "JUnit"
+  ],
+  "education": "Bachelor Degree in IT / Software Engineering",
+  "description": "Looking for a Java Backend Engineer with hands-on experience in building microservices using Spring Boot, JPA/Hibernate, and relational databases. Experience with asynchronous messaging (Kafka/RabbitMQ) is a major plus.",
+  "evaluation_rubric_weights": {
+    "P1_TECH_SKILLS": 40,
+    "P2_EXPERIENCE": 25,
+    "P3_PROJECTS": 15,
+    "P4_SYSTEMS_CLOUD": 10,
+    "P5_EDUCATION_CERTS": 10
+  }
+}

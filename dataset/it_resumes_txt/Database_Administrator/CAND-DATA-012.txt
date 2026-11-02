@@ -1,0 +1,101 @@
+=== CANDIDATE PROFILE: Candidate CAND-DATA-012 ===
+Domain Category: Database
+
+TECHNICAL EXPERTISE
+• DB Languages: SQL
+• Database Tools: SQL Server 2014/ 2017 Postgresql 9.5, 9.6, Oracle 11gR2
+• Operating Systems: Redhat Linux, Oracle Linux, Windows Server 2012/ 2016 OTHER 
+
+=== TECHNICAL SKILLS ===
+ ORACLE 11G R2
+• Proficient in Oracle Database Software Installation, Creation of Database using GUI/Silent DBCA, Architecture, File management, Space Management, User Management, Creating Roles and assigning Privileges/Roles in 11gR2 and troubleshooting them.
+• Hands on experience Control files/Redolog/Archive/Undo Management
+• Configuring Listener.ora/Tnsnames.ora file using Netmgr/netca
+• Generating AWR reports, ADDM, ASH reports to diagnose the problems
+• Database Backup, Cloning/Duplicate using hot & cold backups using RMAN.
+• Knowledge in Flashback Technologies & Expdp/Impdp
+• Implemented Oracle11gR2 RAC on Oracle Linux Platform and knowledge of services for troubleshooting RAC (CRSCTL, SRVCTL)
+• Knowledge on installation and configuration of RAC. Add/Remove Nodes on RAC
+• Configuration of physical standby database (Data guard)
+• Successfully upgraded from 11.2.0.1 to 11.2.0.4 & PSU patching using O patch. STRENGTHS
+• Good Communication skills.
+• Self-confident and can adapt myself to all work environments.
+• Enjoy 
+
+=== RESPONSIBILITIES ===
+ as lead and team player.
+• Patient listener & quick learner.
+• Capable of explaining issues & solving them.
+
+=== EDUCATION DETAILS ===
+ 
+
+ B.E Computer Engineering Mumbai, Maharashtra Mumbai University
+
+ Higher Secondary Certificate   Dr. DY Patil Jr College
+
+Database Administrator 
+
+Database Administrator - DBA in Marketplace Technologies Ltd
+
+=== SKILL DETAILS ===
+ 
+
+DATABASE- Exprience - 61 months
+
+BACKUPS- Exprience - 48 months
+
+LINUX- Exprience - 48 months
+
+MS SQL SERVER- Exprience - 48 months
+
+SQL- Exprience - 48 months 
+
+=== COMPANY DETAILS ===
+ 
+
+company - DBA in Marketplace Technologies Ltd
+
+description - Project Title: EBoss, Datafeed, MFDB, RTRMS, IndiaINX
+
+company - Standard & Enterprise
+
+description - Redhat Linux 7.4, Postgresql 9.5, 9.6
+
+Duration: Feb 2017 - till date
+
+Description: Bombay Stock Exchange BSE  is Asia's first & the Fastest Stock Exchange in world with the speed of 6 micro seconds and one of India's leading exchange groups provides an efficient and transparent market for trading in equity, currencies, debt instruments, derivatives, mutual funds. BSE SME is India's largest SME platform which has listed over 250 companies and continues to grow at a steady pace.
+
+JOB ROLES & 
+
+=== RESPONSIBILITIES ===
+
+POSTGRESQL -
+• Worked on Redhat Linux OS Cluster with Postgresql for High Availability (HA) using Pacemaker.
+• Coordinated with Developers/Linux teams for database knowledge and support.
+• Participated in implementation of new releases into production.
+• Installed /Configured Postgresql from source or packages on Redhat Linux servers.
+• Performed Postgresql Server Management tasks i.e. Backup & Restore, Configuration, Roles, Blockings, Tablespace creation and Troubleshooting.
+• Worked with Storage team for Disaster Recovery DR setup built on SAN using EMC technology
+• Configured LDAP authentication & GSSAPI Authentication from Windows to Linux for Postgresql.
+• Configured logical replication for Database servers, hot standby Postgresql servers, faster database backup methods, schema and tablespace backups.
+• Configured maximum connections to database on Linux servers.
+• Installed tds_fdw from source for linked servers to connect to heterogeneous databases & other required extensions, backup configuration, PITR using base backups.
+
+MSSQL -
+• Day-to-day administration of live SQL Servers.
+• Participated in Live Primary Recovery PR & Disaster Recovery DR activities.
+• Participated in PR & DR mocks for new releases into production.
+• Configured Linked Servers, Transactional replication, Maintenance tasks like database backup & restore, recovery, scheduled jobs, maintenance plans.
+• Installed & Configured SQL server 2014, 2017 standalone and SQL Cluster servers.
+• Maintained the security of the database by providing appropriate SQL roles, logins and permissions to the users on demand.
+• Worked with teams on application rollouts, application issues and SQL server migrations.
+• Exposure in handling production system with skills and understand client's requirement.
+• Performed SQL Server service pack upgrades and hot fixes.
+• Handled multiple SQL Instances on Windows SQL Cluster environment built on  EMC SAN.
+• Worked on MSSQL DB clusters with active/active & active passive servers, Always-On Availability Groups (AAG) and HA/DR Setup.
+• Have experience on SAN and RAID levels and building and supporting SQL Cluster servers on SAN Environments.
+
+company - BSE Bombay Stock Exchange
+
+description - Environment: Windows server 2008 R2, 2012 R2, 2016 Enterprise & Standard,

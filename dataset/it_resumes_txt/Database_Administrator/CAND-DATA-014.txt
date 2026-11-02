@@ -1,0 +1,183 @@
+=== CANDIDATE PROFILE: Candidate CAND-DATA-014 ===
+Domain Category: Database
+
+=== TECHNICAL SKILLS ===
+ Operating Systems MS Windows Server 2012/2008/XP Software and Tools MS Lite Speed, Idera SQL Safe, SSMS, Upgrade Advisor, SQL Server Profiler, SCOM, Diagnostic Manager, Remedy, Jira, Infopacc, Tivoli TDP backup tool, SQL Pack DatabasesMS SQL Server 2016/2014/2012/ 2008 R2/ 2008, Oracle 10g, Netezza Microsoft azure 
+
+=== EDUCATION DETAILS ===
+ 
+
+ Masters of Science Computer Science Pune, Maharashtra Indira College, Pune University
+
+Lead database administrator 
+
+Microsoft Certified Professional with 11 years of experience in database administration on MS SQL Server 2016/2014/2012/2008 R2/ 2008
+
+=== SKILL DETAILS ===
+ 
+
+MS SQL SERVER- Exprience - 110 months
+
+Microsoft azure- Exprience - Less than 1 year months
+
+Always on availabiity group- Exprience - Less than 1 year months
+
+Database mirroring- Exprience - Less than 1 year months
+
+Performance tuning- Exprience - Less than 1 year months
+
+Log shipping- Exprience - Less than 1 year months
+
+Installation , upgrade, migration and patching- Exprience - Less than 1 year months 
+
+=== COMPANY DETAILS ===
+ 
+
+company - Ensono
+
+description - Employment transfer as a part of project acquisition to Ensono from Wipro.
+
+SQL Server Database Administration
+
+company - Wipro Technologies
+
+description - Microsoft Certified Professional with 11 years of experience in database administration on MS SQL Server 2016/2014/2012/2008 R2/ 2008.
+
+Experience with MS SQL Server 2016/2014/2012/2008 R2/ 2008 installation, upgrade, and administration
+
+Microsoft Azure certified.
+
+Have understanding of Azure VM, Azure Storage, Azure network, Azure AD and Azure SQL database. 
+
+Incident management, change management and Problem management for SQL Server Database team.
+
+Participating in meetings, conference calls with client, Service Delivery Manager and Application team for System improvements.
+
+Participated in quarterly DR activity.
+
+Involved in creation of SIP - Service Improvement Plans
+
+Involved in handling of high severity issues and provided RCA for the same.
+
+Worked on Always on availability groups, database mirroring, replication, clustering and log shipping.
+
+Have basic understanding of Oracle and Netezza.
+
+Provided on- call support during out of office hours and weekends.
+
+Resource & shift management of 5 SQL DBAs from offshore in multi-client environment for Data center services.
+
+Provided KT to team members, monitor and guide trainees.
+
+company - Wipro Technologies
+
+description - 
+
+=== RESPONSIBILITIES ===
+:
+• MS SQL Server 2016/2014/2012/ 2008 R2/ 2008 installation, configuration, and administration.
+• Worked on Always on availability groups, log shipping, database mirroring and clustering.
+• Participated in  PCI scan report to perform installation of security hot fixes, service packs for SQL servers to remove vulnerability.
+• Participated in Holmes BOTS automation implementation of SQL Pack tool.
+• Worked on service requests, incidents and critical issues.
+• Involved in conference calls to provide DBA support for critical issues.
+• Performance tuning.
+
+Environment: SQL Server 2016/2014/2012/2008R2/2008, Windows Server 2012/2008R2/2008
+
+company - Mphasis
+
+description - 
+
+company - Mphasis
+
+description - 
+
+=== RESPONSIBILITIES ===
+:
+• MS SQL Server 2012/ 2008 R2/ 2008  installation, configuration, and administration.
+• Worked on Always on availability groups, log shipping, database mirroring and clustering.
+• Performed SQL server patching activity
+• Worked on daily reports like cluster failover, backup, AG/LS/Mirror report and server disk space report.
+• Worked on service requests, incidents and critical issues.
+• Participated in quarterly DR activity.
+• Involved in conference calls to provide DBA support for critical issues.
+• Provided support to windows team during patching for AG-mirror-cluster failover/failback and database health check.
+• Performed all the health checks for market open servers and provided update in market open call
+• Deeply involved in   resolution of the issue and finding the root cause analysis of the issue
+• Performance tuning.
+
+Environment: SQL Server 2012/2008R2/2008, Windows Server 2008R2/2008
+
+company - Synechron Technologies Pvt. Ltd
+
+description - 
+
+=== RESPONSIBILITIES ===
+:
+• SQL server, Oracle and Netezza databases support tasks.
+• MS SQL Server 2008 R2/ 2008 installation, upgrade, and administration.
+• Done capacity planning for database growth for all SQL servers.
+• Troubleshooting alerts.
+• Worked on log shipping and mirroring.
+
+Environment: SQL Server 2008R2/2008, Windows Server 2008R2/2008, Oracle 10g/RAC
+
+company - Synechron Technologies Pvt. Ltd
+
+description - 
+
+company - Synechron Technologies Pvt. Ltd
+
+description - 
+
+=== RESPONSIBILITIES ===
+:
+• Pursued in-depth training on Oracle 11g Architecture and SQL Server.
+
+Environment: SQL Server 2008R2/2008, Windows Server 2008R2/2008, Oracle 10g
+
+company - Synechron Technologies Pvt. Ltd
+
+description - 
+
+=== RESPONSIBILITIES ===
+:
+• Carried out version changes for schemas from PE8 version to EE11 version as per the process given
+
+Environment: Oracle 11g
+
+company - Mastek Ltd
+
+description - 
+
+=== RESPONSIBILITIES ===
+:
+• SQL Server 2008 R2/ 2008 installation, upgrade, and administration
+• database backup/restore.
+• Performed MS SQL Server audits
+• Worked with database mirroring, replication, log shipping and clustering.
+• Supported UAT and PROD environments
+• Performed deployment document review.
+• Carried out deployments for different applications
+
+Environment: SQL Server 2008R2/2008, Windows Server 2008R2/2008
+
+company - Mastek Ltd
+
+description - 
+
+company - PP Software and Systems Ltd
+
+description - 
+
+company - PP Software and Systems Ltd
+
+description - Description: The system provides Master Data Management and Procurement modules for dairy industry.
+
+=== RESPONSIBILITIES ===
+:
+• Designed, coded, and tested
+• Customized ERP system as per the requirement
+
+Environment: Core Java, PostgreSQL

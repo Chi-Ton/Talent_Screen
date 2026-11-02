@@ -1,0 +1,54 @@
+=== CANDIDATE PROFILE: Candidate CAND-DOTN-001 ===
+Domain Category: DotNet Developer
+
+=== TECHNICAL SKILLS ===
+• Web Technologies: ASP .NET, HTML, CSS, Jquery.
+• Languages: C, C++, C#.NET, MVC 5.
+• Database: SQL SERVER 2005/2008/2016.
+• Reporting Tools.: Kindo UI, Telerik functions, Crystal Report.
+• Platforms: Visual Stadio 2010/2014. 
+
+=== EDUCATION DETAILS ===
+ 
+
+January 2014 B.E  Satara, Maharashtra L.N.B.C.College of Engg Satara.
+
+January 2011 Diploma Thergaon Pune, Maharashtra M.M.Polytechnic
+
+Dot net developer 
+
+=== SKILL DETAILS ===
+ 
+
+.NET- Exprience - 24 months
+
+ASP- Exprience - 24 months
+
+C#- Exprience - 24 months
+
+C++- Exprience - 6 months
+
+CRYSTAL REPORT- Exprience - 6 months
+
+Html- Exprience - Less than 1 year months
+
+Css- Exprience - Less than 1 year months
+
+Entityframewok,jquery,javascript- Exprience - Less than 1 year months
+
+Mvc- Exprience - 6 months
+
+Sql- Exprience - 24 months 
+
+=== COMPANY DETAILS ===
+ 
+
+company - Corecode technology
+
+description - Worked on web application using asp,c#,mvc
+
+as well as sql for database and also bootstrap,css,html for designing.created reports using kindo and telerik controls
+
+company - Inetsoft solution
+
+description - Created web application using asp and c# and also used sql for database.

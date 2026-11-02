@@ -1,0 +1,198 @@
+{
+  "framework_name": "Standardized IT Candidate Screening & Evaluation Rubric (S-IT-SR)",
+  "version": "2.0",
+  "description": "Universal 5-Pillar evaluation criteria benchmark used by global IT recruiters and HR professionals for objective technical profile screening.",
+  "evaluation_pillars": [
+    {
+      "pillar_id": "P1_TECH_SKILLS",
+      "name": "Core Technical Skills Match",
+      "weight_percentage": 40,
+      "description": "Evaluates the degree of alignment between candidate hands-on skills and job requirements.",
+      "sub_criteria": [
+        {
+          "name": "Must-Have Primary Technologies",
+          "weight": 25,
+          "rule": "Mandatory stack requirements (e.g. React, Java, AWS)"
+        },
+        {
+          "name": "Nice-to-Have Ecosystem Tools",
+          "weight": 10,
+          "rule": "Secondary tools (Docker, Redis, Tailwind, Jest)"
+        },
+        {
+          "name": "Skill Depth & Version Recency",
+          "weight": 5,
+          "rule": "Evidence of modern version usage vs outdated syntax"
+        }
+      ]
+    },
+    {
+      "pillar_id": "P2_EXPERIENCE",
+      "name": "Relevant Experience & Seniority",
+      "weight_percentage": 25,
+      "description": "Evaluates tenure in relevant technical roles and hands-on depth.",
+      "sub_criteria": [
+        {
+          "name": "Years of Relevant Experience",
+          "weight": 15,
+          "rule": "Direct alignment with JD minimum years (Junior 1-2y, Mid 3-4y, Senior 5y+)"
+        },
+        {
+          "name": "Career Progression & Role Consistency",
+          "weight": 10,
+          "rule": "Continuity in technical positions without unexplained gaps"
+        }
+      ]
+    },
+    {
+      "pillar_id": "P3_PROJECTS",
+      "name": "Project Complexity & Architecture Contribution",
+      "weight_percentage": 15,
+      "description": "Evaluates scale, complexity, and tangible impact of completed software projects.",
+      "sub_criteria": [
+        {
+          "name": "High-Scale & Production Experience",
+          "weight": 8,
+          "rule": "Experience with microservices, high concurrency, cloud deployments"
+        },
+        {
+          "name": "Quantifiable Achievements",
+          "weight": 7,
+          "rule": "Mention of measurable improvements (e.g., reduced latency by 30%, handled 50k DAU)"
+        }
+      ]
+    },
+    {
+      "pillar_id": "P4_SYSTEMS_CLOUD",
+      "name": "Database, DevOps & Cloud Foundations",
+      "weight_percentage": 10,
+      "description": "Fundamental engineering practices (Databases, CI/CD, Version Control).",
+      "sub_criteria": [
+        {
+          "name": "Database Proficiency (SQL/NoSQL)",
+          "weight": 5,
+          "rule": "PostgreSQL, MySQL, MongoDB, Redis"
+        },
+        {
+          "name": "DevOps & Tooling (Git, Docker, CI/CD)",
+          "weight": 5,
+          "rule": "Git workflows, containerization, automated testing"
+        }
+      ]
+    },
+    {
+      "pillar_id": "P5_EDUCATION_CERTS",
+      "name": "Education, Certifications & Communication",
+      "weight_percentage": 10,
+      "description": "Formal technical background, industry credentials, and professional communication.",
+      "sub_criteria": [
+        {
+          "name": "Degree / Formal Background",
+          "weight": 5,
+          "rule": "B.S./M.S. in CS/IT or proven equivalent self-taught track record"
+        },
+        {
+          "name": "Professional Certifications",
+          "weight": 3,
+          "rule": "AWS Certified, PMP, OCAJP, CKA, Scikit-Learn"
+        },
+        {
+          "name": "Language & Soft Skills",
+          "weight": 2,
+          "rule": "English proficiency, documentation, team collaboration"
+        }
+      ]
+    }
+  ],
+  "scoring_scale": {
+    "tier_1_strong_match": {
+      "range": "85% - 100%",
+      "recommendation": "Strong Recommend for Technical Interview"
+    },
+    "tier_2_potential_match": {
+      "range": "70% - 84%",
+      "recommendation": "Recommend with Minor Skill Check"
+    },
+    "tier_3_marginal_match": {
+      "range": "50% - 69%",
+      "recommendation": "Review Needed (Significant Skill/Experience Gap)"
+    },
+    "tier_4_unqualified": {
+      "range": "0% - 49%",
+      "recommendation": "Reject (Core Stack Mismatch)"
+    }
+  },
+  "it_skill_semantic_taxonomy": {
+    "Frontend": [
+      "React",
+      "ReactJS",
+      "Next.js",
+      "Vue",
+      "Vue.js",
+      "Angular",
+      "TypeScript",
+      "JavaScript",
+      "Redux",
+      "Tailwind CSS",
+      "HTML5",
+      "CSS3"
+    ],
+    "Backend_Java": [
+      "Java",
+      "Spring Boot",
+      "Spring MVC",
+      "Hibernate",
+      "JPA",
+      "Maven",
+      "Gradle",
+      "Microservices",
+      "REST API"
+    ],
+    "Backend_Python": [
+      "Python",
+      "FastAPI",
+      "Django",
+      "Flask",
+      "Celery",
+      "Pydantic",
+      "SQLAlchemy",
+      "AsyncIO"
+    ],
+    "DevOps_Cloud": [
+      "AWS",
+      "Amazon Web Services",
+      "Docker",
+      "Kubernetes",
+      "K8s",
+      "CI/CD",
+      "Jenkins",
+      "Terraform",
+      "Linux",
+      "GitLab CI",
+      "Prometheus"
+    ],
+    "Data_AI": [
+      "Machine Learning",
+      "Deep Learning",
+      "Pandas",
+      "NumPy",
+      "Scikit-Learn",
+      "PyTorch",
+      "TensorFlow",
+      "NLP",
+      "LLM",
+      "Data Analysis",
+      "SQL"
+    ],
+    "Database": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle",
+      "MongoDB",
+      "Redis",
+      "Elasticsearch",
+      "SQL Server",
+      "Database Indexing"
+    ]
+  }
+}

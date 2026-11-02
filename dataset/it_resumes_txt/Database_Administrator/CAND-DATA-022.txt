@@ -1,0 +1,60 @@
+=== CANDIDATE PROFILE: Candidate CAND-DATA-022 ===
+Domain Category: Database
+
+=== TECHNICAL SKILLS ===
+• SQL
+• Oracle v10, v11, v12
+• R programming, Python, linear regression, machine learning and statistical modelling techniques(obtained certification through Edvancer Eduventures training institute) 
+
+=== KEY SKILLS ===
+• Multitasking, working to meet client SLA in high pressure scenarios, handling sensitive clients along with improved skills at being a team player.
+• Excellent communication skills and quick learner.
+• Leadership qualities, team networking and courage to take up the problems proactively.
+
+=== EDUCATION DETAILS ===
+ 
+
+June 2012    Sadvidya Pre-University College
+
+Application Database Administrator-DBMS (Oracle) 
+
+Application Database Administrator-DBMS (Oracle) - IBM India Pvt Ltd
+
+=== SKILL DETAILS ===
+ 
+
+CLIENTS- Exprience - 30 months
+
+MACHINE LEARNING- Exprience - 30 months
+
+ORACLE- Exprience - 30 months
+
+SQL- Exprience - 30 months
+
+EXCELLENT COMMUNICATION SKILLS- Exprience - 6 months 
+
+=== COMPANY DETAILS ===
+ 
+
+company - IBM India Pvt Ltd
+
+description - Client: Blue Cross Blue Shield MA: Massachusetts Health Insurance
+• Used Oracle SQL to store and organize data. This includes capacity planning, installation, configuration, database
+
+design, migration, security, troubleshooting, backup and data recovery.
+• Worked with client databases installed on Oracle v10, v11, v12 on a Linux platform.
+• Proficient communication with clients across locations facilitating data elicitation.
+• Handling numerous business requests and solving them diligently within the given time frame and responding quickly and effectively to production issues within SLA.
+• Leading a team in co ordination with business to conduct weekly checkouts of the database servers and systems
+
+IBM 
+
+=== CERTIFICATIONS ===
+
+Statistics 101, Applied Data Science with R, Big Data Foundations, Data Science Foundations
+
+Business Analytics Certification (Pune)
+
+Worked on Retail and Banking projects, to design a predictive business model using machine learning techniques in
+
+R programming for an efficient business and marketing strategy.

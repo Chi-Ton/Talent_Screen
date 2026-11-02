@@ -1,0 +1,155 @@
+=== CANDIDATE PROFILE: Candidate CAND-DEVO-026 ===
+Domain Category: DevOps Engineer
+
+Skills VISA B1-VISA (USA) Onsite Visits to Sweden & US (Seattle) 
+
+=== EDUCATION DETAILS ===
+ 
+
+January 2013 Post Graduate Diploma Information Technology Pune, Maharashtra Symbiosis Institute
+
+January 2007 Bachelor of Engineering Electronics and Telecommunications Pune, Maharashtra Pune University
+
+Cloud Operations Architect (Dev Ops) 
+
+Cloud Operations Architect (Dev Ops) - Dev Ops
+
+=== SKILL DETAILS ===
+ 
+
+Cloud Computing- Exprience - 48 months
+
+Shell Scripting- Exprience - 96 months
+
+Python- Exprience - 6 months
+
+Automation- Exprience - 72 months
+
+Solution Architect- Exprience - Less than 1 year months
+
+Azure- Exprience - Less than 1 year months
+
+AWS- Exprience - Less than 1 year months 
+
+=== COMPANY DETAILS ===
+ 
+
+company - Dev Ops
+
+description - Type: Dev Ops Engineer.
+
+Platform: AWS Cloud, Azure Cloud.
+
+Services: AWS EC2, RDS, Cloud Formation Template, Lambda, Dynamo DB,  Cloud Watch, Auto-scaling, Elastic Bean stalk, Appdynamics.
+
+Here I manage Tibco Spotfire enterprise & Cloud Product support. Being the only Ops member in India I got a chance to recruit & build entire team of 15 members. I also worked on 4 different Projects / products simultaneously and added the hired members into these products.
+
+My 
+
+=== RESPONSIBILITIES ===
+ in this project include:
+
+1. Managing Tibco Spotfire Enterprise & Cloud environment.
+
+2. Helping India QA team with the pre-production environment for testing.
+
+3. Coordinating production deployment & hot-fixes.
+
+4. Leading the team and handling 4-projects.
+
+5. Arranging workshops over new AWS services for entire Team.
+
+Shell scripts for Automation:
+• Wrote shell script to extract the AWS running instances and shut it down.
+• Wrote shell script to extract free EIP and release those.
+• Wrote Lambda function to trigger important scripts.
+
+company - Synechron Technologies Limited
+
+description - Type: Administration, automation & Monitoring.
+
+Platform: Linux/Unix, Linux-Xen Servers,
+
+Software: Puppet, Redhat Satellite server, my-sql database shell scripting.
+
+My 
+
+=== RESPONSIBILITIES ===
+ in this project included:
+
+1. Managing linux media servers farms and provide application support.
+
+2. Patching Linux physical and xen boxes.
+
+3. Creating Satellite channels on Satellite server.
+
+4. Automation via shell scripting and mysql DB support.
+
+5. Troubleshooting the customized applications.
+
+company - Tsys Limited
+
+description - Type: Development, automation & Monitoring.
+
+Platform: Linux/Unix, windows
+
+Software: mysql database, shell scripting.
+
+Here my responsibility was to provide access to the users on RHDS, Cvs and dot project servers.
+
+It also included providing access to users on dev/prod VDI servers. Handling mysql database and shell scripting to automate the tasks.
+
+My 
+
+=== RESPONSIBILITIES ===
+ in this project included:
+
+1. Requirements and Analysis: Understanding the requirements of the project and planning the environment and the access required.
+
+2. Implementing mysql replication over linux servers.
+
+3. Fine tuning the existing applications.
+
+4. Testing & debugging the scripts for any errors.
+
+company - Patni Computer Systems Limited
+
+description - Project: CPI
+
+Type: Development, automation & Monitoring.
+
+Platform: P8 Filenet, Linux/Unix, IBM AIX
+
+Software: Sound knowledge of HTML, shell scripting.
+
+Client: Genworth Financial
+
+Duration: 2 yrs 2 months.
+
+Role: Senior System Engineer
+
+CPI is a Maintenance Project that caters to maintenance/enhancements of different applications, which are a part of Genworth Imaging Solutions. It has different applications that process the scanned Insurance documents sent from different Providers and stores the information in Oracle Database and images in P8 Filenet. It has multiple applications to generate reports to be sent to providers.
+
+Administration Support:
+• Providing support to the L1 engineers.
+• Monitoring P8 Filenet application.
+• Handling Tickets raised by the users.
+• Administration of the 10 Linux Proxy servers and mysql servers.
+• Implementing mysql replication.
+• Checking the logs of the sites visited by the users and the data downloaded.
+
+Mysql / Oracle / SQL Support:
+• Preparing SQL queries for the client users.
+• Handling Oracle database.
+• Testing insert, select, update queries over servers and deploying over production.
+• Handling the bugs raised by the users.
+• Implementing mysql replication over linux servers.
+• Taking database backup through mysql dump.
+
+Application Support:
+• To make sure that the customer applications like e Process, Trexo are working fine.
+• To make sure all the customized filenet instances are working fine.
+• Writing scripts to automate few of the applications.
+
+Shell scripts for Automation:
+• Wrote shell script to delete the logs older than five days which was successfully deployed over Production servers.

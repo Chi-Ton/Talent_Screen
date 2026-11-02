@@ -1,0 +1,52 @@
+=== CANDIDATE PROFILE: Candidate CAND-BIGD-013 ===
+Domain Category: Hadoop
+
+=== TECHNICAL SKILLS ===
+ Programming Languages: C, C++, Java, .Net., J2EE, HTML5, CSS, Map Reduce Scripting Languages: Javascript, Python Databases: Oracle (PL-SQL), MY-SQL, IBM DB2 Tools:IBM Rational Rose, R, Weka Operating Systems: Windows XP, Vista, UNIX, Windows 7, Red Hat 7Education Details 
+
+January 2015 B.E  Pimpri Chinchwad, MAHARASHTRA, IN Pimpri Chinchwad College of Engineering
+
+January 2012 Diploma MSBTE  Dnyanganaga Polytechnic
+
+ S.S.C   New English School Takali
+
+Hadoop/Big Data Developer 
+
+Hadoop/Big Data Developer - British Telecom
+
+=== SKILL DETAILS ===
+ 
+
+APACHE HADOOP MAPREDUCE- Exprience - 37 months
+
+Map Reduce- Exprience - 37 months
+
+MAPREDUCE- Exprience - 37 months
+
+JAVA- Exprience - 32 months
+
+.NET- Exprience - 6 months 
+
+=== COMPANY DETAILS ===
+ 
+
+company - British Telecom
+
+description - Project: British Telecom project (UK)
+
+=== RESPONSIBILITIES ===
+:
+• Working on HDFS, Map Reduce, Hive, Spark, Scala, Sqoop, Kerberos etc. technologies
+• Implemented various data mining algorithms on Spark like K-means clustering, Random forest, Naïve bayes etc.
+• A knowledge of installing, configuring, maintaining and securing Hadoop.
+
+company - DXC technology
+
+description - HPE legacy), Bangalore
+• Worked on Hadoop + Java programming
+• Worked on Azure and AWS (EMR) services.
+• Worked on HDInsight Hadoop cluster..
+• Design, develop, document and architect Hadoop applications
+• Develop Map Reduce coding that works seamlessly on Hadoop clusters.
+• Analyzing and processing the large data sets on HDFS.
+• An analytical bent of mind and ability to learn-unlearn-relearn surely comes in handy.

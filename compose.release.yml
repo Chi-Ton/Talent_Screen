@@ -1,0 +1,65 @@
+name: talentscreen-release
+services:
+  postgres:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: talentscreen
+      POSTGRES_USER: talentscreen
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD}
+    volumes:
+      - database:/var/lib/postgresql/data
+    healthcheck:
+      test: [CMD-SHELL, "pg_isready -U talentscreen -d talentscreen"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    restart: unless-stopped
+    environment:
+      DATABASE_URL: postgresql+psycopg://talentscreen:${POSTGRES_PASSWORD}@postgres:5432/talentscreen
+      JWT_SECRET: ${JWT_SECRET:?Set JWT_SECRET}
+      HR_EMAIL: ${HR_EMAIL:-hr@example.com}
+      HR_PASSWORD: ${HR_PASSWORD:?Set HR_PASSWORD}
+      TALENTSCREEN_RETIRE_LEGACY: ${TALENTSCREEN_RETIRE_LEGACY:-0}
+      SEED_DEMO_CANDIDATES: "false"
+      FRONTEND_ORIGIN: http://localhost:${WEB_PORT:-3100}
+      AI_PROVIDER: ${AI_PROVIDER:-disabled}
+      AI_BASE_URL: ${AI_BASE_URL:-http://host.docker.internal:20128/v1}
+      AI_API_KEY: ${AI_API_KEY:-}
+      AI_MODEL: ${AI_MODEL:-ag/gemini-3.8-flash-high}
+      AI_PRIVACY_MODE: ${AI_PRIVACY_MODE:-redacted_remote}
+      AI_PROMPT_VERSION: v4-evidence-completeness
+      AI_STORE_EXTRACTED_TEXT: "false"
+    extra_hosts:
+      - host.docker.internal:host-gateway
+    volumes:
+      - uploads:/app/uploads
+    depends_on:
+      postgres:
+        condition: service_healthy
+    healthcheck:
+      test: [CMD, python, -c, "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/api/v1/health', timeout=4)"]
+      interval: 10s
+      timeout: 5s
+      retries: 20
+      start_period: 30s
+  frontend:
+    build: ./frontend
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:${WEB_PORT:-3100}:3000"
+    depends_on:
+      backend:
+        condition: service_healthy
+    healthcheck:
+      test: [CMD, node, -e, "fetch('http://127.0.0.1:3000/login').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+volumes:
+  database:
+  uploads:

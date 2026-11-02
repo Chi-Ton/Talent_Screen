@@ -1,0 +1,52 @@
+=== CANDIDATE PROFILE: Candidate CAND-JAVA-014 ===
+Domain Category: Java Developer
+
+Skills
+• Language: Java
+• Operating System: Windows, Linux (CentOS 6.6)
+• Databases: Oracle, My SQL and Derby (Embedded DB)
+• IDE: Eclipse (Oxygen)
+• Tools: Sonar Qube, Putty. Responsibilitis:
+• Participated in requirements gathering and design development meetings.
+• Reviewed code and debugged errors to improve performance.
+• Coordinated with systems partners to finalize designs and confirm requirements.
+• Consistently met deadlines and requirements for all production work orders.
+• Collaborated with other developers to identify and alleviate the number of bugs in the software and provided maintenance and development of bug fixes and patch sets for existing applications. 
+
+=== EDUCATION DETAILS ===
+ 
+
+ Bachelor of Engineering  (Computer)   Savitribai Phule Pune University
+
+Java Developer 
+
+Java Developer - Aurus Tech Pvt. Ltd
+
+=== SKILL DETAILS ===
+ 
+
+JAVA- Exprience - 32 months
+
+LINUX- Exprience - 6 months
+
+Adavance Java- Exprience - Less than 1 year months
+
+Derby- Exprience - Less than 1 year months
+
+Oracle- Exprience - Less than 1 year months 
+
+=== COMPANY DETAILS ===
+ 
+
+company - Aurus Tech Pvt. Ltd
+
+description - Having 2 years of experience in working with a Payment Gateway Solutions provider with Core Java. Hardworking Java Developer enthusiastic about working with multicultural teams.
+
+company - Aurus Tech Pvt Ltd.
+
+description -
+• Participated in requirements gathering and design development meetings.
+• Reviewed code and debugged errors to improve performance.
+• Coordinated with systems partners to finalize designs and confirm requirements.
+• Consistently met deadlines and requirements for all production work orders.
+• Collaborated with other developers to identify and alleviate the number of bugs in the software and provided continued maintenance and development of bug fixes and patch sets for existing applications.

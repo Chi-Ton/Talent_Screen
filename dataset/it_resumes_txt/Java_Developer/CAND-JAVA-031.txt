@@ -1,0 +1,89 @@
+=== CANDIDATE PROFILE: Candidate CAND-JAVA-031 ===
+Domain Category: Java Developer
+
+=== TECHNICAL SKILLS ===
+ Skills: Java, SQL, PL/SQL, C, C++, Boot Strap, JSP, Ext JS Operating Systems: Windows Tools: Toad, Eclipse, Soap Box, Postman Databases: Oracle, MS-SQL, MS-Access, MS-Excel 
+
+=== EDUCATION DETAILS ===
+ 
+
+January 2017 B.E. Computer Technology Gondia, MAHARASHTRA, IN Manoharbhai Patel Institute of Engineering and Technology
+
+ HSC  Gondia, MAHARASHTRA, IN S.M.P. Science College
+
+Java Developer 
+
+Java Developer - Xoriant Solutions Pvt Ltd
+
+=== SKILL DETAILS ===
+ 
+
+=== COMPANY DETAILS ===
+ 
+
+company - Xoriant Solutions Pvt Ltd
+
+description - Pune
+
+Period                Sept' 2017 to till date
+
+Role                  Java Developer
+
+Description           Res Rent is a team responsible for the development of various
+
+modules for Hertz. They are responsible for the development of screens in the portfolios they look after, and act as a
+
+primary control function; developing webservices to ensure it can
+
+be hit by XML and JSON. We build various modules which are
+
+inbuilt in Hertz to provide interfaces for end users in their tasks.
+
+Tools                 Eclipse, TOAD, Soap Box, Postman
+
+=== RESPONSIBILITIES ===
+      - Develop module from Backend to Middleware to Frontend.
+
+- Bugs fixing and proactive developing of enhancements
+
+- Resolve Application incidents within defined UCs & creating
+
+different Task ticket as well.
+
+- Debug and provide solution for workflow.
+
+- Resolving DB issues and providing technical support to BAs.
+
+- Keeping track of deployments and effect of same on ongoing
+
+jobs
+
+- Contribution towards automation of daily activities and process
+
+based organization
+
+- On-time, within-budget delivery meeting customers' quality
+
+expectations.
+
+- Maintain knowledge base of domain, known defects and issues,
+
+processes and development techniques.
+
+company - Xoriant Solutions Pvt Ltd
+
+description - Strong communication, collaboration & team building skills with proficiency at grasping
+
+new technical concepts quickly and utilize the same in a productive manner.
+
+✓ Experience in development in Web application.
+
+✓ Resolve project related issues in minimal time.
+
+✓ Able to communicate effectively with multifunctional teams, programmers and technical staff at all levels.
+
+✓ Good knowledge of Java, Sql, Ext JS, JSP, XML, Web services.
+
+✓ Good interpersonal & analytical skills with proven abilities in resolving the complex
+
+software issue.

@@ -1,0 +1,41 @@
+=== CANDIDATE PROFILE: Candidate CAND-JAVA-009 ===
+Domain Category: Java Developer
+
+Operating Systems Windows XP, 7, 10. Tools/Packages Visual Basic 6.0, UML, Packet Tracer Web technologies Core java, Advance java, JSP, Hibernate, Spring Languages known C, C++ Databases SQL AREAS OF INTEREST
+• Software Development
+• Programming Academic Projects Details Diploma: Title: Banking Software Description: We used GSM technology for transaction of message for a security purpose. Environment/OS: Windows XP Technologies used frontend: visual basic 6.0 Backend: oracle 9i BE: Title: Single Sign On Description: We have created "single sign on" mechanism for network security. Environment/OS: Windows 7 Technologies Used Frontend: java Backend: Oracle 10g ME: Title: Text Based Graphical Password To Overcome Shoulder Surfing Attacks Description: I have created a most secure password system using Random Printing Algo. Environment/OS: Windows 10 Technologies used: Frontend: Java Backend: MySQL Company: Title: Agriculture Management System Description: Created Web application for Agriculture system and Farming. Environment/OS: Windows 10 Technologies used: Frontend: Hibernate Backend: MySQL 
+
+=== EDUCATION DETAILS ===
+ 
+
+June 2015 to February 2018 ME(computers) computer Pune, Maharashtra Savitribai Phule Pune University
+
+June 2007 S.S.C.  Solapur, Maharashtra Maharashtra Secondary Board
+
+Java Developer 
+
+Java Developer
+
+=== SKILL DETAILS ===
+ 
+
+JAVA- Exprience - 6 months
+
+DATABASES- Exprience - 6 months
+
+Hibernate- Exprience - Less than 1 year months
+
+Jsp- Exprience - Less than 1 year months
+
+Servlet- Exprience - Less than 1 year months 
+
+=== COMPANY DETAILS ===
+ 
+
+company - Maxgen Technologies Pvt.Ltd.
+
+description - 1. Working as a java developer over Hibernate technology. Developing web application using JSP servlet and hibernate.
+
+company - Prakshal IT academy
+
+description - I was working as a trainer. I have taught A+, N+ CCNA(routing and switching).

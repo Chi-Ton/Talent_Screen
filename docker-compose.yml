@@ -1,0 +1,28 @@
+# Keep the existing development Compose identity so moving the project folder
+# does not orphan the PostgreSQL container or create a second database volume.
+name: thay_duc
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: talentscreen-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      TZ: ${TZ:-Asia/Bangkok}
+      PGTZ: UTC
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      - talentscreen_postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  talentscreen_postgres_data:
+    name: talentscreen_postgres_data

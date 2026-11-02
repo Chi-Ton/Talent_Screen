@@ -1,0 +1,105 @@
+=== CANDIDATE PROFILE: Candidate CAND-DATA-024 ===
+Domain Category: Database
+
+Technical Expertise Operating Systems Microsoft Window Server 2003/2008/2008 R2/2012 Database Technologies SQL Server, Sybase ASE Server, Oracle, MongoDB Monitoring and Ticketing Tools HP Service Manager 7.0/9.0, Solar winds DPA, JIRA and MongoDB OPS manager Web Server IIS 7.0 Database Tools SSMS, DBArtisan, Studio 3T, Snap Shot Manager for SQL Server 
+
+=== EDUCATION DETAILS ===
+ 
+
+ B. Tech Computer Science Gulbarga, Karnataka PDACOE, Gulbarga, Autonomous Institution
+
+Database Administrator II 
+
+Database Administrator III - BNY Mellon International Operations (India) PVT. LTD
+
+=== SKILL DETAILS ===
+ 
+
+Sql Dba- Exprience - Less than 1 year months 
+
+=== COMPANY DETAILS ===
+ 
+
+company - BNY Mellon International Operations (India) PVT. LTD
+
+description - SQL Server :
+
+ Installation, configuration of database servers using slipstream and setup all the maintenance jobs as per the standard policy on standalone as well as cluster environments with latest service packs
+
+ Installation of SSRS, uploading of .rdls and assigning correct data sources to reports. Grant necessary access to users & developers on reporting website. Aware of SSIS and designing packages as well.
+
+ Create and manage logins, users for database applications, assigning permissions as per requests, resolving user login issues.
+
+ Migration of all SQL server 2005/2008 servers to higher versions.
+
+ Setup of database refresh jobs on QA, DEV and UAT environments and fixing orphaned users.
+
+ Troubleshoot performance related issues. 
+
+ Part of multiple projects to work with developers and provide all required support for testing in QA, UAT & DEV environment. 
+
+ Lead the DR tests for database team.
+
+ Participate in database purge and archive activities.
+
+ Writing codes for automating database administration tasks.
+
+ Worked on automating DR tasks to start the agent jobs on multiple servers, restore databases for log shipped databases without manual intervention for online databases post DR activities.
+
+ Provide support to vendor databases, follow up with the vendor calls and timely escalate to next level when there is no update in predefined timeline.
+
+ Installation and configuration of smsql on windows server. Schedule jobs for creation and deletion of clones on sql server. Maintain backups using smsql.
+
+MongoDB Server:
+
+ Installation and configuration of MongoDB server.
+
+ Creation of databases and collection.
+
+ Creation new user and grant access using Ops manager.
+
+ Monitor database servers using Ops manager.
+
+Oracle & Sybase Server
+
+ Managing and maintaining multiple instances of Databases on Linux and windows servers.
+
+ Monitoring daily jobs includes backups, refresh and maintenance jobs.
+
+company - Hewlett-Packard India Sales PVT. LTD. On the payroll of Softenger India PVT. LTD
+
+description -  Installation of SQL Server on standalone as well as windows cluster environments with latest service packs
+
+ SQL server installation using slipstream.
+
+ Installation of reporting services
+
+ Creating logins and users, assigning permissions as per requests.
+
+ Security audit for all logins includes maintenance of unused and orphan user logins
+
+ Create & Maintain daily and weekly jobs/maintenance plans includes backup, index rebuild/reorganize , update statistics and database consistency check
+
+ Create linked servers and ensure connectivity between servers
+
+ Monitor disk space proactively & Space management using data and log file shrinking
+
+ Monitor blocking, deadlocks, open transactions and slow running queries during performance issues and highlight costly queries to developers.
+
+ Configure alerts for deadlock and blocking to maintain performance
+
+ Implementing high availability technologies like log shipping, AlwaysON, mirroring and its troubleshooting, also have knowledge on replication
+
+ Successfully completed migration of Databases from one server to another
+
+ Performing DR drills (Online/Offline) on quarterly basis
+
+ Power shell scripting to monitor, restart SQL service and get Email alert for the service status.
+
+ Maintain TNS entries for oracle client as per client requests.
+
+ Interacting with customers for requirements
+
+ Contacting customer to update the status of handling issues and service requests at every stage of resolution
+
+ Managing proper escalation and notification matrix for all support levels

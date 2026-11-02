@@ -1,0 +1,51 @@
+=== CANDIDATE PROFILE: Candidate CAND-PYTH-012 ===
+Domain Category: Python Developer
+
+• Operating Systems: Windows
+• Others: MS Excel, MS Office, MS Power Point Key Projects Handled Project Title: fruit sorting and disease detection Client: Kranti Dynamics Team Size: 5 
+
+=== EDUCATION DETAILS ===
+ 
+
+January 2014 B.E. Electronics Mumbai, Maharashtra University of Mumbai
+
+Python Developer/analyst 
+
+python developer and data analyst
+
+=== SKILL DETAILS ===
+ 
+
+python scripting,programming,developing- Exprience - 12 months
+
+frontend  ,html- Exprience - 12 months
+
+python liabrary, numpy,pandas,matplolib,requests,beautiful soap- Exprience - 12 months
+
+mysql- Exprience - 12 months
+
+django- Exprience - 12 months
+
+web scrapping- Exprience - Less than 1 year months 
+
+=== COMPANY DETAILS ===
+ 
+
+company - Ace The Power of 5
+
+description - The Accountabilities:
+
+→ Understanding the functional requirements of the application given by the client.
+
+→ Participated in walkthroughs of business requirements, functional requirements and technical design to ensure their testability.
+
+→ Responsible for Software Configuration Management of project deliverables.
+
+Technical skill set:
+• Languages: C, C ++, Java, python,python liabray,mysql,django,html
+• Scripting: Python,
+• GUI development: Tk, Java
+
+company - kranti dyanamics
+
+description - programming,scripting,developer,web scrapping

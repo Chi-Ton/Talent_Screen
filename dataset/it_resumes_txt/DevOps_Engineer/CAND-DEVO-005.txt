@@ -1,0 +1,100 @@
+=== CANDIDATE PROFILE: Candidate CAND-DEVO-005 ===
+Domain Category: DevOps Engineer
+
+Core skills
+• Project / Program Management
+• Agile / Scrum Management
+• Risk /Client Management
+• Process Improvements
+• Proposals/RFE
+• Selenium
+• RALLY / IBM TD Platform
+• Python
+• Dev Ops / Dev Sec Ops
+• SAFe - Agile Craft
+• Delivery / Test Management
+• Project / Program Finance
+• Profit Maximization
+• Internal / External Audits
+• Software Testing / Quality Assurance
+• Visual Basic 6.0
+• MS-SQL Server / Oracle 8/8i
+• Conformiq
+• HP QC / QTP
+• Crystal Report 8.5 Linguistic Skills English Hindi Marathi Tulu 
+
+=== EDUCATION DETAILS ===
+ 
+
+January 2013    Harvard
+
+January 2004  Software Engineering  Aptech
+
+January 2001 Bachelor of Commerce Commerce Mumbai, Maharashtra Mumbai University
+
+Project Manager 
+
+Project Manager - AT&T
+
+=== SKILL DETAILS ===
+ 
+
+TESTING- Exprience - 63 months
+
+ORACLE- Exprience - 6 months
+
+SQL- Exprience - 6 months
+
+AUDITS- Exprience - 6 months
+
+CLIENT MANAGEMENT- Exprience - 6 months 
+
+=== COMPANY DETAILS ===
+ 
+
+company - AT&T
+
+description - Thunderbird program is a One-Stop-Test-Shop catering to AT&T's Enterprise-wide business critical applications. As part of this Fixed Price engagement various types of testing like System, Regression, Sanity and UAT support gets executed through Agile Methodologies on applications under Billing and Sales domain. The project has various critical applications as listed below with a team size of 80+ members.
+
+Sales Express: An i Pad & Browser based Mobile Sales application used by Sales Representatives & Service/Solution providers to sell Enterprise Products/Solutions
+
+ESIGN: Allows customer to sign and AT&T to countersign digital version of contract document
+
+AMPD: Enterprise billing application through which AT&T offers new and emerging billing products to the Business community
+
+BEST: Business Solution application which performs consolidated billing and reporting for CRU Billing and Reporting Foundation Accounts
+
+BIZCOMP: Comp Engine for business that supports the commission calculations for Enterprise Business and Small-Business sales force via Revenue and Unit based plans
+
+FAST: Provides rate discounts to eligible Schools and Libraries
+
+CXMT: Lets customers manage their Centrex line and feature arrangements of their services without going through the standard service-order procedure.
+
+Key 
+
+=== RESPONSIBILITIES ===
+• Manage and lead all aspects of Transition / Pre-Transition comprising multiple vendors
+• Transition Drill down sessions, Forward/Reverse Shadow phases and Reverse Presentation
+• Transition Documentation & signoff of SMP & System Appreciation Document etc
+• Measure & track testing metrics scorecard as part of Vendor Quality Index (VQI) initiative of AT&T
+• Measure and track operating metrics like Onsite Subcon Index, Offshoring Index, Leakage Index, Utilization Index and Tail Index
+• Manage, Track and Submit Project Monthly Financials & Invoicing
+• Ensure 100% compliance to client / organization's quality and security processes, policies and SLAs
+• Plan, manage and mitigate Risks
+• Achieve Automation targets and SLAs using ConformiQ, Selenium & Oscar Tools
+• Participate in proposal preparations to expand revenue and new business developments
+• Manage & Track Work Allocation, Resourcing, Issue Resolution and Testing activities for the project
+• Ensure Monthly Delivery / TL9K Metrics and CSL-KMs are submitted on time
+• PMR, Internal Quality / Security Group, SQA, Quality Gates and external Ernst & Young / TL9K Audit
+• Share weekly highlight reports, Project Health Report and regular Dashboard Reporting activities
+• Prepare CSAT action plan for the team
+• Prepare and implement Business Continuity Plan for the project
+• Timely conduct of Business Continuity drills like Call Tree, Table Top and Project Rehearsal
+• Comparative analysis, Root Cause Analysis and Defect Prevention exercises for ST, E2E and UAT
+• Coordinate with Resource Management, Quality, Learning, Security, PMO and Business Unit
+• Sub-Contractors and Rebadged (Ex-AT&T) staff management
+• Participate in external technical interview / hiring drives for new engagements
+
+company - Esaya Software India Pvt Ltd
+
+description -

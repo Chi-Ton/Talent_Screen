@@ -1,0 +1,65 @@
+=== CANDIDATE PROFILE: Candidate CAND-JAVA-081 ===
+Domain Category: Java Developer
+
+=== EDUCATION DETAILS ===
+ 
+
+January 2016 B.E Information Technology Pune, Maharashtra Sawitribai Phule Pune University
+
+Java Developer 
+
+Java Developer - Vertical Software
+
+=== SKILL DETAILS ===
+ 
+
+=== COMPANY DETAILS ===
+ 
+
+company - Vertical Software
+
+description - Expertise in design and development of web applications using J2EE, Servlets
+
+JSP, Java Script, HTML, CSS, JQUERY, AJAX, JSON.
+
+Experienced in developing applications using MVC architecture.
+
+Good understanding of Software Development Life Cycle Phases such as Requirement
+
+gathering, analysis, design, development and unit testing.
+
+Languages & open Source Java, J2EE, Spring, Hibernate
+
+Frame Work
+
+Scripting Languages & Server Java JSP, Servlets, DB Connectivity's
+
+Side Program JDBC, Java Script, j Query, Ajax, JSON
+
+Application Server Tom Cat
+
+Database MongoDB, My Sql
+
+IDEs Eclipse
+
+1. Project Title: Expense Ledger
+
+Role: Java Developer
+
+Tools and Technologies: Java, Jsp, Servlet, My Sql, Java Script, Json, Jquery, Ajax.
+
+2. Project Title: Trimurti Developer (Realestate)
+
+Role: Java Developer
+
+Tools and Technologies: Java, Jsp, Servlet, My Sql, Java Script, Json, Jquery, Ajax.
+
+3. Project Title: Vimay Enterprise
+
+Role: Java Developer
+
+Tools and Technologies: Java, Jsp, Spring, Hibernate, Maven, Jquery, Ajax.
+
+company - Higher Secondary School
+
+description - Pune, 58.8%

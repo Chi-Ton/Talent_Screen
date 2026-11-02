@@ -1,0 +1,132 @@
+{
+  "verifiedAt": "2026-09-22T06:14:18.026941+00:00",
+  "schema": "compact-v2",
+  "physicalTables": 9,
+  "checksPassed": 30,
+  "checks": [
+    {
+      "name": "exactly_nine_physical_tables",
+      "status": "passed"
+    },
+    {
+      "name": "single_operator_enforced",
+      "status": "passed"
+    },
+    {
+      "name": "rubric_total_must_be_100",
+      "status": "passed"
+    },
+    {
+      "name": "rubric_codes_unique",
+      "status": "passed"
+    },
+    {
+      "name": "rubric_immutable",
+      "status": "passed"
+    },
+    {
+      "name": "rubric_must_belong_to_job",
+      "status": "passed"
+    },
+    {
+      "name": "batch_pins_configuration",
+      "status": "passed"
+    },
+    {
+      "name": "same_source_once_per_batch",
+      "status": "passed"
+    },
+    {
+      "name": "source_digest_immutable",
+      "status": "passed"
+    },
+    {
+      "name": "file_cannot_be_reassigned",
+      "status": "passed"
+    },
+    {
+      "name": "document_immutable",
+      "status": "passed"
+    },
+    {
+      "name": "document_top_level_identity_blocked",
+      "status": "passed"
+    },
+    {
+      "name": "document_required_privacy_flag",
+      "status": "passed"
+    },
+    {
+      "name": "wrong_cv_document_blocked",
+      "status": "passed"
+    },
+    {
+      "name": "score_sum_enforced",
+      "status": "passed"
+    },
+    {
+      "name": "recommendation_threshold_enforced",
+      "status": "passed"
+    },
+    {
+      "name": "all_criteria_required",
+      "status": "passed"
+    },
+    {
+      "name": "strict_local_remote_result_blocked",
+      "status": "passed"
+    },
+    {
+      "name": "document_must_match_pinned_rubric",
+      "status": "passed"
+    },
+    {
+      "name": "only_one_active_attempt",
+      "status": "passed"
+    },
+    {
+      "name": "running_requires_lease",
+      "status": "passed"
+    },
+    {
+      "name": "failed_cannot_have_score",
+      "status": "passed"
+    },
+    {
+      "name": "finished_result_immutable",
+      "status": "passed"
+    },
+    {
+      "name": "retry_preserves_result_and_exact_counters",
+      "status": "passed"
+    },
+    {
+      "name": "hr_review_cannot_target_other_cv",
+      "status": "passed"
+    },
+    {
+      "name": "new_score_invalidates_old_hr_review",
+      "status": "passed"
+    },
+    {
+      "name": "out_of_scope_is_not_zero_score",
+      "status": "passed"
+    },
+    {
+      "name": "referenced_source_delete_restricted",
+      "status": "passed"
+    },
+    {
+      "name": "audit_append_only",
+      "status": "passed"
+    },
+    {
+      "name": "trigger_resolves_compact_tables_with_public_search_path",
+      "status": "passed"
+    }
+  ],
+  "isolatedSchemaRolledBack": true,
+  "liveApplicationMigrated": false,
+  "realCvDataUsed": false,
+  "remoteAiCalled": false
+}

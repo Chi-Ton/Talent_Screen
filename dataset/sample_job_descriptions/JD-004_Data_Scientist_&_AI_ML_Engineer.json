@@ -1,0 +1,31 @@
+{
+  "job_id": "JD-004",
+  "title": "Data Scientist & AI/ML Engineer",
+  "department": "AI & Analytics",
+  "experience_required_years": 2,
+  "must_have_skills": [
+    "Python",
+    "Machine Learning",
+    "Pandas",
+    "NumPy",
+    "Scikit-Learn",
+    "SQL",
+    "NLP"
+  ],
+  "nice_to_have_skills": [
+    "PyTorch",
+    "TensorFlow",
+    "FastAPI",
+    "LLM Fine-tuning",
+    "LangChain"
+  ],
+  "education": "Bachelor or Master in Computer Science, Data Science, or Mathematics",
+  "description": "Design and deploy machine learning models and NLP pipelines into production. Experience with LLMs and structured text processing is highly valued.",
+  "evaluation_rubric_weights": {
+    "P1_TECH_SKILLS": 40,
+    "P2_EXPERIENCE": 25,
+    "P3_PROJECTS": 15,
+    "P4_SYSTEMS_CLOUD": 10,
+    "P5_EDUCATION_CERTS": 10
+  }
+}

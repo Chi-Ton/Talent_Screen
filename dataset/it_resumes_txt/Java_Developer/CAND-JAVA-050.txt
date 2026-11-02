@@ -1,0 +1,45 @@
+=== CANDIDATE PROFILE: Candidate CAND-JAVA-050 ===
+Domain Category: Java Developer
+
+TECHNICALSKILLS SpringMVC, Hibernate, JDBC, Java, J2EE, Azure Web Sun Technologies Services, JSP, Struts, Servlet, Rest Api. Scripting Java Script, AJAX, HTML, JSON. Open Source Technologies PHP. Database MsSQL, MySQL, Oracle. Web Servers Apache Tomcat Server. Internettechnologiesand Onesignal Web Push Notifications, Azureweb Services, frameworks IONIC, HTML, JSON Operating System Windows Server2012R2, WinXP/7/8.1/10, Linux, Mac OS 
+
+=== EDUCATION DETAILS ===
+ 
+
+August 2013 to July 2016 BE Computer Engineering Nashik, Maharashtra Late G.N. Sapkal COE Nashik
+
+July 2009 to June 2013 Diploma Computer technology Nashik, Maharashtra K K Wagh Polytechnic  Nashik
+
+Java developer 
+
+Java Developer
+
+=== SKILL DETAILS ===
+ 
+
+AJAX- Exprience - 12 months
+
+DATABASE- Exprience - 24 months
+
+HTML- Exprience - 24 months
+
+J2EE- Exprience - 6 months
+
+JAVA- Exprience - 24 months
+
+Spring MVC- Exprience - 12 months
+
+Ionic 3- Exprience - 6 months
+
+Angular JS- Exprience - 6 months
+
+Spring- Exprience - Less than 1 year months
+
+Java- Exprience - Less than 1 year months 
+
+=== COMPANY DETAILS ===
+ 
+
+company - Replete business solutions pvt ltd
+
+description - Working as Java developer in spring MVC, MySQL, Ms Sql, Java, J2EE, Ajax, Javascript, ionic 3 framework, angular js etc. Technologies.

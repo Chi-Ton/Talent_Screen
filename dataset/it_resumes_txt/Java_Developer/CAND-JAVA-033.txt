@@ -1,0 +1,49 @@
+=== CANDIDATE PROFILE: Candidate CAND-JAVA-033 ===
+Domain Category: Java Developer
+
+=== EDUCATION DETAILS ===
+ 
+
+January 2013 Master of Engineering Information Technology Pune, Maharashtra M.I.T
+
+January 2005 Bachelor of Engineering Information Technology Pusad, Maharashtra Amravati University
+
+January 2001   Pusad, Maharashtra P. N. Junior College
+
+January 1999 S.S.C  Pusad, Maharashtra K.D. High-School
+
+Java Developer 
+
+Java Developer - Maxgen Technologies
+
+=== SKILL DETAILS ===
+ 
+
+=== COMPANY DETAILS ===
+ 
+
+company - Maxgen Technologies
+
+description - Currently working in Infrasoft Technologies, Andheri as a Java Developer.
+
+company - MIS Generation of Tata Sky and Tata Power
+
+description - COURSES DONE: Android -Mobile App Development, Technologies in Java-Core Java,
+
+Advance Java, JSF, Hibernate, Spring at NIIT in 2015-16.
+
+ANDROID PROJECT: Location Detector of Computing and Mobile Devices. (Android)
+
+ME PROJECT: Data Deduplication. My projects works to reduce redundant data from the system and free up the memory. It stores unique copy of data and for more location with same data with the help of pointers can access the data. (Java)
+
+SUBJECTS TAUGHT:
+
+C language, Core Java, Object Oriented Programming (OOT/C++), Database, PPS (Programming and problem solving), AD (Advance Database), IAS (Information Assurance and security), Android
+
+PROGRAMMING SKILL: C, C++, Java, Android.
+
+DATABASE HANDLED:
+
+MS Access, SQL, Oracle
+
+NATIONAL CONFERENCE: 1. paper presented on "A secure cipher index over encrypted character data in database." On dated 28-29 April 2011 at Pimpri chinchwad college of engineering, Pune.

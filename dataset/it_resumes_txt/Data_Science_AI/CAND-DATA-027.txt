@@ -1,0 +1,53 @@
+=== CANDIDATE PROFILE: Candidate CAND-DATA-027 ===
+Domain Category: Data Science
+
+Skills
+• Python
+• Tableau
+• Data Visualization
+• R Studio
+• Machine Learning
+• Statistics IABAC Certified Data Scientist with versatile experience over 1+ years in managing business, data science consulting and leading innovation projects, bringing business ideas to working real world solutions. Being a strong advocator of augmented era, where human capabilities are enhanced by machines, Fahed is passionate about bringing business concepts in area of machine learning, AI, robotics etc., to real life solutions.
+
+=== EDUCATION DETAILS ===
+ 
+
+January 2017 B. Tech Computer Science & Engineering Mohali, Punjab Indo Global College of Engineering
+
+Data Science Consultant 
+
+Data Science Consultant - Datamites
+
+=== SKILL DETAILS ===
+ 
+
+MACHINE LEARNING- Exprience - 13 months
+
+PYTHON- Exprience - 24 months
+
+SOLUTIONS- Exprience - 24 months
+
+DATA SCIENCE- Exprience - 24 months
+
+DATA VISUALIZATION- Exprience - 24 months
+
+Tableau- Exprience - 24 months 
+
+=== COMPANY DETAILS ===
+ 
+
+company - Datamites
+
+description -
+• Analyzed and processed complex data sets using advanced querying, visualization and analytics tools.
+• Responsible for loading, extracting and validation of client data.
+• Worked on manipulating, cleaning & processing data using python.
+• Used Tableau for data visualization.
+
+company - Heretic Solutions Pvt Ltd
+
+description -
+• Worked closely with business to identify issues and used data to propose solutions for effective decision making.
+• Manipulating, cleansing & processing data using Python, Excel and R.
+• Analyzed raw data, drawing conclusions & developing recommendations.
+• Used machine learning tools and statistical techniques to produce solutions to problems.

@@ -1,0 +1,31 @@
+{
+  "job_id": "JD-003",
+  "title": "DevOps & Cloud Infrastructure Engineer",
+  "department": "Infrastructure & Operations",
+  "experience_required_years": 3,
+  "must_have_skills": [
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "Linux",
+    "CI/CD",
+    "Terraform",
+    "Git"
+  ],
+  "nice_to_have_skills": [
+    "Prometheus",
+    "Grafana",
+    "Python",
+    "Bash Scripting",
+    "Ansible"
+  ],
+  "education": "BS in Computer Science / IT or AWS Certified",
+  "description": "Responsible for managing high-availability cloud infrastructure on AWS, container orchestration with Kubernetes, and automating zero-downtime CI/CD pipelines.",
+  "evaluation_rubric_weights": {
+    "P1_TECH_SKILLS": 40,
+    "P2_EXPERIENCE": 25,
+    "P3_PROJECTS": 15,
+    "P4_SYSTEMS_CLOUD": 10,
+    "P5_EDUCATION_CERTS": 10
+  }
+}

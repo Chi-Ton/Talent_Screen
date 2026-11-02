@@ -1,0 +1,49 @@
+=== CANDIDATE PROFILE: Candidate CAND-BIGD-009 ===
+Domain Category: Hadoop
+
+Skill Set: Hadoop, Map Reduce, HDFS, Hive, Sqoop, java. Duration: 2016 to 2017. Role: Hadoop Developer Rplus offers an quick, simple and powerful cloud based Solution, Demand Sense to accurately predict demand for your product in all your markets which Combines Enterprise and External Data to predict demand more accurately through Uses Social Conversation and Sentiments to derive demand and Identifies significant drivers of sale out of hordes of factors that Selects the best suited model out of multiple forecasting models for each product. 
+
+=== RESPONSIBILITIES ===
+:
+• Involved in deploying the product for customers, gathering requirements and algorithm optimization at backend of the product.
+• Load and transform Large Datasets of structured semi structured.
+• Responsible to manage data coming from different sources and application
+• Supported Map Reduce Programs those are running on the cluster
+• Involved in creating Hive tables, loading with data and writing hive queries which will run internally in map reduce way.
+
+=== EDUCATION DETAILS ===
+ 
+
+Hadoop Developer 
+
+Hadoop Developer - Braindatawire
+
+=== SKILL DETAILS ===
+ 
+
+APACHE HADOOP HDFS- Exprience - 49 months
+
+APACHE HADOOP SQOOP- Exprience - 49 months
+
+Hadoop- Exprience - 49 months
+
+HADOOP- Exprience - 49 months
+
+HADOOP DISTRIBUTED FILE SYSTEM- Exprience - 49 months 
+
+=== COMPANY DETAILS ===
+ 
+
+company - Braindatawire
+
+description - 
+
+=== TECHNICAL SKILLS ===
+:
+• Programming: Core Java, Map Reduce, Scala
+• Hadoop Tools: HDFS, Spark, Map Reduce, Sqoop, Hive, Hbase
+• Database: MySQL, Oracle
+• Scripting: Shell Scripting
+• IDE: Eclipse
+• Operating Systems: Linux (CentOS), Windows
+• Source Control: Git (Github)
